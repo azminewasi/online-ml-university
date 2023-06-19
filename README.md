@@ -1,4 +1,4 @@
-# ***Online ML University***:**AI & ML Resources from Top Universities**
+# ***Online ML University***: **AI & ML Resources from Top Universities**
 ML, or machine learning, is a subfield of AI that involves developing algorithms and statistical models that enable machines to learn from data and improve their performance at a specific task over time. ML is often used in conjunction with AI to create intelligent systems.
 In summary, AI is a broad field that encompasses various techniques and approaches, including ML, which is a specific type of AI that uses statistical methods to train machines to make decisions or predictions based on data. CS is the overarching discipline that provides the foundational knowledge and techniques necessary for building AI and ML systems.
 
@@ -9,6 +9,7 @@ In summary, AI is a broad field that encompasses various techniques and approach
 - [Stanford University](#stanford-online)
 - [Harvard Uniersity](#harvard-university)
 - [UCL x DeepMind](#ucl-x-deepmind)
+- [Carnegie Mellon University](#carnegie-mellon-university)
 
 ---
 
@@ -34,8 +35,10 @@ $~$
 | Stanford CS230 | Deep Learning | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&pp=iAQB) |
 | Stanford CS105 | Introduction to Computers Full Course | N/A | ⭐ | [Youtube](https://youtube.com/watch?v=Qpw-udshXdM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&pp=iAQB) |
 | Stanford EE104 | Introduction to Machine Learning Full Course | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
-
-
+| Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
+| Workshop |  ML Explainability by Professor Hima Lakkaraju | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
+|  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| Stanford CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
 ---
 
 $~$
@@ -51,8 +54,8 @@ $~$
 | MIT 6.042J | Mathematics for Computer Science | Spring 2015 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&pp=iAQB) |
 | MIT 6.034 | Artificial Intelligence | Fall 2010 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&pp=iAQB) |
 | MIT 6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
+| MIT 6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
 
----
 
 $~$
 
@@ -79,10 +82,27 @@ $~$
 | Introduction to Computer Science | 2015 | ⭐ | [Youtube](https://www.youtube.com/watch?v=zFenJJtAEzE&list=PL2SOU6wwxB0u5DBbFA2cjpKfdPzL3ruC1) |
 | Statistics 110 | 2015 | ⭐ | [Youtube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |
 
+---
+
+$~$
+
+# **Carnegie Mellon University**
+### Computer Science and Artificial Intelligence
+
+| Course Code   | Course Name                                           | Difficulty    | URL                                                         |
+|---------------|-------------------------------------------------------|---------------|-------------------------------------------------------------|
+| CS/LTI 11-711 | Advanced NLP                                          | ⭐⭐⭐ | [Youtube](https://lnkd.in/gSt29ZVt)      |
+| CS/LTI 11-747 | Neural Networks for NLP                               | ⭐⭐ | [Youtube](https://lnkd.in/gRRrY8uq)      |
+| CS/LTI 11-737 | Multilingual NLP                                      | ⭐⭐⭐  | [Youtube](https://lnkd.in/g8QkaTfy)      |
+| CS/LTI 11-777 | Multimodal Machine Learning                           | ⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
+| CS/LTI 11-785 | Introduction to Deep Learning                         | ⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
+| CS/LTI Bootcamp| Low Resource NLP Bootcamp 2020 by Graham Neubig       | ⭐⭐⭐| [Youtube](https://lnkd.in/grYqa3YZ)     |
+
+Note: The URLs are hyperlinked to YouTube as instructed, and the difficulty level is assigned based on my knowledge.
 
 
 ---
-Use these resources to learn computer science, artificial intelligence and machine learning from the very begining to advanced. Happy learning!
+---
 
 ### Don't forget to **star** the repo! ⭐⭐⭐⭐⭐
 
@@ -96,4 +116,4 @@ Hey there! We are building something awesome, and we want you to be a part of it
 ---
 
 ## ✨ **Credits**
-**Azmine Toushik Wasi**
+- [**Azmine Toushik Wasi**]()
