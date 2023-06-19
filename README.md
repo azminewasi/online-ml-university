@@ -1,6 +1,5 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
-ML, or machine learning, is a subfield of AI that involves developing algorithms and statistical models that enable machines to learn from data and improve their performance at a specific task over time. ML is often used in conjunction with AI to create intelligent systems.
-In summary, AI is a broad field that encompasses various techniques and approaches, including ML, which is a specific type of AI that uses statistical methods to train machines to make decisions or predictions based on data. CS is the overarching discipline that provides the foundational knowledge and techniques necessary for building AI and ML systems.
+Machine Learning is a type of Artificial Intelligence that helps machines to learn and improve their abilities over time by using algorithms and statistical models. AI is a general field that covers many techniques, including ML, which trains machines to make decisions based on data. Computer Science provides the basic knowledge and skills needed to create AI and ML systems.
 
 ***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
 
@@ -50,7 +49,7 @@ $~$
 | --- | --- | --- | --- | --- |
 | MIT 6.0001 | Introduction to Computer Science and Programming in Python | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&pp=iAQB) |
 | MIT 6.0002 | Introduction to Computational Thinking and Data Science | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&pp=iAQB) |
-| MIT 6.006 | Introduction to Algorithms | Spring 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&pp=iAQB) |
+| MIT 6.006 | Introduction to Algorithms | Spring 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&pp=iAQB) |
 | MIT 6.042J | Mathematics for Computer Science | Spring 2015 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&pp=iAQB) |
 | MIT 6.034 | Artificial Intelligence | Fall 2010 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&pp=iAQB) |
 | MIT 6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
@@ -87,7 +86,7 @@ $~$
 $~$
 
 # **Carnegie Mellon University**
-### Computer Science and Artificial Intelligence
+### Machine Learning
 
 | Course Code   | Course Name                                           | Difficulty    | URL                                                         |
 |---------------|-------------------------------------------------------|---------------|-------------------------------------------------------------|
