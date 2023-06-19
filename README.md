@@ -1,4 +1,4 @@
-# **AI & ML Resources from Top Universities**
+# ***Online ML University***:**AI & ML Resources from Top Universities**
 ML, or machine learning, is a subfield of AI that involves developing algorithms and statistical models that enable machines to learn from data and improve their performance at a specific task over time. ML is often used in conjunction with AI to create intelligent systems.
 In summary, AI is a broad field that encompasses various techniques and approaches, including ML, which is a specific type of AI that uses statistical methods to train machines to make decisions or predictions based on data. CS is the overarching discipline that provides the foundational knowledge and techniques necessary for building AI and ML systems.
 
@@ -97,9 +97,3 @@ Hey there! We are building something awesome, and we want you to be a part of it
 
 ## ✨ **Credits**
 **Azmine Toushik Wasi**
-
- [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://azminewasi.github.io) 
- [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/azmine-toushik-wasi/) 
- [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/azminetoushikwasi) 
- [![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=1f1f18)](https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en) 
- [![facebook](https://img.shields.io/badge/Facebook-%2320beff?style=flat-square&logo=facebook&color=1f1f15)](https://www.facebook.com/cholche.gari.zatrabari/)
