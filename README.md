@@ -12,6 +12,7 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 - [New York University](#new-york-university)
 - [University of Michigan](#university-of-michigan)
 - [UC Berkeley](#uc-berkeley)
+- [Princeton University](#princeton-university)
 - [Others](#others)
 
 ---
@@ -30,6 +31,7 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 | Stanford EE104 | Introduction to Machine Learning Full Course | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
 | Workshop |  ML Explainability by Professor Hima Lakkaraju | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
 | Stanford CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
+| - | Introduction to Statistics | N/A | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/stanford-statistics) |
 
 **Deep Learning**
 | Course Code | Course Name | Session | Difficulty | URL |
@@ -123,6 +125,14 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 | CS 285 | Deep Reinforcement Learning | Fall 2021 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH) |
 | CS 285 | Deep Reinforcement Learning | Fall 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) |
 | NIPS 2016 | Deep Learning for Action and Interaction Workshop | 2016 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY) |
+
+---
+
+## **Princeton University**
+| Topic | Title | Link |
+| --- | --- | --- |
+| Algorithms | Algorithms, Part I | [Coursera - Free Audit](https://www.coursera.org/learn/algorithms-part1) |
+| Algorithms | Algorithms, Part II  | [Coursera - Free Audit](https://www.coursera.org/learn/algorithms-part2) |
 
 ---
 
