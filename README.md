@@ -111,7 +111,7 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 | Course Name                                           | Difficulty    | URL                                                         |
 |-------------------------------------------------------|---------------|-------------------------------------------------------------|
 | Deep Learning for Computer Vision                     | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)      |
-
+| Data Science Ethics | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/data-science-ethics) |
 ---
 
 ## **UC Berkeley**
@@ -136,18 +136,28 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 
 ---
 
+## **University of London**
+| Topic | Title | Link |
+| --- | --- | --- |
+| Data Science | Foundations of Data Science: K-Means Clustering in Python | [Coursera - Free Audit](https://www.coursera.org/learn/data-science-k-means-clustering-python) |
+| Probability and Statistics | Probability and Statistics: To p or not to p?  | [Coursera - Free Audit](https://www.coursera.org/learn/probability-statistics) |
+
+---
+
 ## **Others**
 | Provider   | Course Name                                           | Year  | Difficulty   | URL                                                         |
 |---------------|----------------------------|---------------|----------------|-----------------------------------------------------------|
 | African Master in Machine Intelligence | Geometric Deep Learning by Michael Bronstein (Oxford), Joan Bruna (NYU), Taco Cohen (Qualcomm), and Petar Veličković (DeepMind)                   |   2022   | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) |
-
-
+| Unversity of Washington | Computational Neuroscience | | ⭐⭐ | [Coursera](https://www.coursera.org/learn/computational-neuroscience) |
+| The State Unversity of New York | Practical Time Series Analysis | | ⭐⭐ | [Coursera](https://www.coursera.org/learn/practical-time-series-analysis) |
+| University of Zurich | An Intuitive Introduction to Probability  |  | ⭐| [Coursera](https://www.coursera.org/learn/introductiontoprobability) |
 
 ---
 ---
 
 ### Don't forget to **star** the repo! ⭐⭐⭐⭐⭐
 
+---
 ---
 
 ## 📃 **Other Resources**
