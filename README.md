@@ -13,6 +13,8 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 - [University of Michigan](#university-of-michigan)
 - [UC Berkeley](#uc-berkeley)
 - [Princeton University](#princeton-university)
+- [Microsoft and Linkedin Learning](#microsoft-and-linkedin-learning)
+- [Hugging Face](#hugging-face)
 - [Others](#others)
 
 ---
@@ -142,6 +144,27 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 | --- | --- | --- |
 | Data Science | Foundations of Data Science: K-Means Clustering in Python | [Coursera - Free Audit](https://www.coursera.org/learn/data-science-k-means-clustering-python) |
 | Probability and Statistics | Probability and Statistics: To p or not to p?  | [Coursera - Free Audit](https://www.coursera.org/learn/probability-statistics) |
+
+---
+
+## **Microsoft** and **Linkedin Learning**
+| Learning Path Name    | Link  |
+|--------|-----|
+| Career Essentials in Generative AI by Microsoft and LinkedIn         | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)           |
+| Career Essentials in Software Development by Microsoft and LinkedIn  | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin)    |
+| Career Essentials in Data Analysis by Microsoft and LinkedIn         | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-data-analysis-by-microsoft-and-linkedin)           |
+| Career Essentials in Administrative Assistance by Microsoft and LinkedIn | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-administrative-assistance-by-microsoft-and-linkedin)        |
+| Career Essentials in Project Management by Microsoft and LinkedIn     | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-project-management-by-microsoft-and-linkedin)      |
+| Career Essentials in Business Analysis by Microsoft and LinkedIn      | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-business-analysis-by-microsoft-and-linkedin)      |
+
+---
+
+## **Hugging Face**
+| Course    | Link  |
+|--------|-----|
+| NLP |  [Link (Free)](https://huggingface.co/learn/nlp-course/chapter1/1) |
+| Audio Processing |  [Link (Free)](https://huggingface.co/learn/audio-course/chapter0/introduction) |
+| Deep Reinforcement LEarning |  [Link (Free)](https://huggingface.co/learn/deep-rl-course/unit0/introduction) |
 
 ---
 
