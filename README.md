@@ -1,5 +1,5 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
-Are you tired of hearing buzzwords like Artificial Intelligence and Machine Learning but have no clue what they actually mean? Let me break it down for you - Machine Learning helps machines learn by using specialized algorithms and statistical models. And the best part? You don't need a fancy degree to learn this stuff! Some of the world's top universities offer free online resources that can help you get started on your journey to becoming an AI whiz. Don't miss out on this opportunity - start your learning journey today!
+Machine Learning helps machines learn by using specialized algorithms and statistical models. And the best part? You don't need a fancy degree to learn this stuff! Some of the world's top universities offer free online resources that can help you get started. Don't miss out on this opportunity - start your learning journey today!
 
 ***This repository contains a curated list of top AI courses offered by renowned universities.***
 
