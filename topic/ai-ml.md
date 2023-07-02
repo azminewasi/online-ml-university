@@ -20,7 +20,7 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | MIT |  6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
 | Harvard | - | Explainable Artificial Intelligence | Spring 2023 | ⭐ | [Course Website](https://interpretable-ml-class.github.io/) |
 | UC Berkeley | CS 188 | Introduction to Artificial Intelligence | Fal 2018 | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) |
-
+| Carnegie Mellon University | CS/LTI 11-777 | Multimodal Machine Learning                           | |⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
 
 ---
 ---

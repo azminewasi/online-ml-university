@@ -17,8 +17,6 @@ Natural Language Processing (NLP) is a branch of artificial intelligence and lin
 | Carnegie Mellon University | CS/LTI 11-711 | Advanced NLP                                          | |⭐⭐⭐ | [Youtube](https://lnkd.in/gSt29ZVt)      |
 | Carnegie Mellon University | CS/LTI 11-747 | Neural Networks for NLP                               | |⭐⭐ | [Youtube](https://lnkd.in/gRRrY8uq)      |
 | Carnegie Mellon University | CS/LTI 11-737 | Multilingual NLP                                      | |⭐⭐⭐  | [Youtube](https://lnkd.in/g8QkaTfy)      |
-| Carnegie Mellon University | CS/LTI 11-777 | Multimodal Machine Learning                           | |⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
-| Carnegie Mellon University | CS/LTI 11-785 | Introduction to Deep Learning                         | |⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
 | Carnegie Mellon University | CS/LTI Bootcamp| Low Resource NLP Bootcamp 2020 by Graham Neubig       | |⭐⭐⭐| [Youtube](https://lnkd.in/grYqa3YZ)     |
 | Hugging Face| |  NLP | | ⭐| [Link (Free)](https://huggingface.co/learn/nlp-course/chapter1/1) |
 
