@@ -3,20 +3,28 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 
 ***This repository contains a curated list of top AI courses offered by renowned universities.***
 
-# **Universities Listed:**
-- [Massachusetts Institute of Technology (MIT)](#mit-opencourseware)
-- [Stanford University](#stanford-online)
-- [Harvard Uniersity](#harvard-university)
-- [UCL x DeepMind](#ucl-x-deepmind)
-- [Carnegie Mellon University](#carnegie-mellon-university)
-- [New York University](#new-york-university)
-- [University of Michigan](#university-of-michigan)
-- [UC Berkeley](#uc-berkeley)
-- [Princeton University](#princeton-university)
-- [Microsoft and Linkedin Learning](#microsoft-and-linkedin-learning)
-- [Hugging Face](#hugging-face)
-- [Others](#others)
+---
 
+## **Universities and Topics Listed:**
+| University / Course Provider | Topic |
+| --- | --- |
+|  [Massachusetts Institute of Technology (MIT)](https://github.com/azminewasi/online-ml-university/blob/main/university/MIT%20OpenCourseware.md) | [Artificial Intelligence, Machine Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai-ml.md) |
+|  [Stanford University](https://github.com/azminewasi/online-ml-university/blob/main/university/Stanford%20Online.md) | [Computer Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/cs.md) |
+|  [Harvard Uniersity](#harvard-university) | [Statistics](https://github.com/azminewasi/online-ml-university/blob/main/topic/statistics.md) |
+|  [UCL x DeepMind](#ucl-x-deepmind) | [Data Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/data-science.md) |
+|  [Carnegie Mellon University](https://github.com/azminewasi/online-ml-university/blob/main/university/Carnegie%20Mellon%20University.md) | [Deep Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/deep-learning.md) |
+|  [New York University](#new-york-university) | [Computer Vision](https://github.com/azminewasi/online-ml-university/blob/main/topic/cv.md) |
+|  [University of Michigan](#university-of-michigan) | [Natural Language Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/nlp.md) |
+|  [UC Berkeley](https://github.com/azminewasi/online-ml-university/blob/main/university/UC%20Berkeley.md) | [Generative AI & LLMs](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai.md) |
+|  [Princeton University](#princeton-university) | [Graph Neural Networks](https://github.com/azminewasi/online-ml-university/blob/main/topic/gnn.md) |
+|  [Microsoft and Linkedin Learning](https://github.com/azminewasi/online-ml-university/blob/main/university/Microsoft%20%26%20Linkedin%20Learning.md) | [Reinforcement Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/reinforcement-learning.md) |
+|  [Hugging Face](#hugging-face) | [Time Series/Audio/Signal Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/time-series-audio-speech-processing.md) |
+
+---
+
+### Don't forget to **star** the repo! ⭐⭐⭐⭐⭐
+
+---
 ---
 
 ## **Stanford Online**
