@@ -7,11 +7,20 @@ Generative AI refers to the field of artificial intelligence focused on creating
 ---
 
 
-# **Generative AI**
+# **Generative AI + LLMs**
 | Source | Course Name | Difficulty | URL |
 | --- | --- |  --- | --- |
 | Microsoft and Linkedin Learning | Career Essentials in Generative AI by Microsoft and LinkedIn         | ⭐ | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)           |
-
+| Google |  Generative AI learning path       | ⭐ | [Link (Free)](https://www.cloudskillsboost.google/journeys/118)           |
+| DeepLearning.AI |  ChatGPT Prompt Engineering for Developers       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  LangChain for LLM Application Development       | ⭐⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  How Diffusion Models Work       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  Building Systems with the ChatGPT API       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| Weights and Biases | Building LLM-Powered Apps | ⭐ | [Link (Free)](https://www.wandb.courses/courses/building-llm-powered-apps)           |
+| Weights and Biases | Training and Fine-tuning Large Language Models (LLMs) | ⭐ | [Link (Free)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) |
+| Prompt Engineering | Prompt Engineering Guide | ⭐ | [Websitye](https://www.promptingguide.ai/) |
+| The Full Stack | LLM Bootcamp - Spring 2023 | ⭐⭐ | [YT](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
+| Databricks | Large Language Models (LLMs): Application through Production | ⭐⭐ | [Link (Free)](https://customer-academy.databricks.com/learn/course/internal/view/elearning/1749/large-language-models-llms-application-through-production) |
 
 
 

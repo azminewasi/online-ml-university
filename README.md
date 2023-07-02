@@ -19,6 +19,7 @@ Machine Learning helps machines learn by using specialized algorithms and statis
 |  [Princeton University](#princeton-university) | [Graph Neural Networks](https://github.com/azminewasi/online-ml-university/blob/main/topic/gnn.md) |
 |  [Microsoft and Linkedin Learning](https://github.com/azminewasi/online-ml-university/blob/main/university/Microsoft%20%26%20Linkedin%20Learning.md) | [Reinforcement Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/reinforcement-learning.md) |
 |  [Hugging Face](#hugging-face) | [Time Series/Audio/Signal Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/time-series-audio-speech-processing.md) |
+|   | [MLOps](https://github.com/azminewasi/online-ml-university/blob/main/topic/mlops.md) |
 
 ---
 

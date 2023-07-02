@@ -16,7 +16,7 @@ Computer Vision is a field of study within computer science that focuses on deve
 | University of Michigan | - | Deep Learning for Computer Vision                    | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)      |
 | UC Berkeley | NIPS 2016 | Deep Learning for Action and Interaction Workshop | 2016 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY) |
 | UC Berkeley | CS 198-126 | Modern Computer Vision | Fal 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5) |
-
+| Roboflow | | Computer Vision in Practice | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
 
 
 

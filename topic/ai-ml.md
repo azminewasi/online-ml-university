@@ -21,6 +21,11 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | Harvard | - | Explainable Artificial Intelligence | Spring 2023 | ⭐ | [Course Website](https://interpretable-ml-class.github.io/) |
 | UC Berkeley | CS 188 | Introduction to Artificial Intelligence | Fal 2018 | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) |
 | Carnegie Mellon University | CS/LTI 11-777 | Multimodal Machine Learning                           | |⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
+| Google | | Machine Learning Crash Course | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course)| 
+| Google | | Basics of Machine Learning | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)| 
+
+
+
 
 ---
 ---
