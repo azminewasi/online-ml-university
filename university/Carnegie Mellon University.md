@@ -6,7 +6,6 @@ Machine Learning is a type of Artificial Intelligence that helps machines to lea
 
 ---
 
-$~$
 
 # **Carnegie Mellon University**
 | Course Code   | Course Name                                           | Difficulty    | URL                                                         |

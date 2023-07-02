@@ -164,7 +164,7 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 |--------|-----|
 | NLP |  [Link (Free)](https://huggingface.co/learn/nlp-course/chapter1/1) |
 | Audio Processing |  [Link (Free)](https://huggingface.co/learn/audio-course/chapter0/introduction) |
-| Deep Reinforcement LEarning |  [Link (Free)](https://huggingface.co/learn/deep-rl-course/unit0/introduction) |
+| Deep Reinforcement Learning |  [Link (Free)](https://huggingface.co/learn/deep-rl-course/unit0/introduction) |
 
 ---
 
@@ -185,7 +185,6 @@ Are you tired of hearing buzzwords like Artificial Intelligence and Machine Lear
 ---
 
 ## 📃 **Other Resources**
-- [Reinforcement Learning](https://github.com/azminewasi/Curated-Reinforcement-Learning-Resources)
 - [DataCamp Mega Collection](https://github.com/azminewasi/DataCamp-Courses-MegaCollection)
 ---
 
