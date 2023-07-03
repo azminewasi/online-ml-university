@@ -18,7 +18,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 |  [University of Michigan](https://github.com/azminewasi/online-ml-university/blob/main/university/University-of-Michigan.md) | [Natural Language Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/nlp.md) |
 |  [UC Berkeley](https://github.com/azminewasi/online-ml-university/blob/main/university/UC%20Berkeley.md) | [Generative AI & LLMs](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai.md) | 
 |  [Princeton University](https://github.com/azminewasi/online-ml-university/blob/main/university/Princeton-University.md) | [Graph Neural Networks](https://github.com/azminewasi/online-ml-university/blob/main/topic/gnn.md) |
-|  [Microsoft and Linkedin Learning](https://github.com/azminewasi/online-ml-university/blob/main/university/Microsoft%20%26%20Linkedin%20Learning.md) | [Reinforcement Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/reinforcement-learning.md) |
+|  [Microsoft and Linkedin Learning](https://github.com/azminewasi/online-ml-university/blob/main/university/Microsoft%20%26%20Linkedin%20Learning.md) | [Reinforcement Learning](https://github.com/azminewasi/Curated-Reinforcement-Learning-Resources) |
 |  [Hugging Face](https://github.com/azminewasi/online-ml-university/blob/main/university/HF.md) | [Time Series/Audio/Signal Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/time-series-audio-speech-processing.md) |
 |  [Kaggle](https://github.com/azminewasi/online-ml-university/blob/main/university/Kaggle.md) | [MLOps](https://github.com/azminewasi/online-ml-university/blob/main/topic/mlops.md) |
 
@@ -32,24 +32,24 @@ Now, the best part is that these courses not only provide lectures but also clas
 ## **Stanford University**
 | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- |
-| Stanford CS105 | Introduction to Computers Full Course | N/A | ⭐ | [Youtube](https://youtube.com/watch?v=Qpw-udshXdM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&pp=iAQB) |
-| Stanford CS229 | Machine Learning Full Course taught by Andrew Ng | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&pp=iAQB) |
-| Stanford CS221 | Artificial Intelligence: Principles and Techniques | Autumn 2021 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&pp=iAQB) |
-| Stanford CS224W | Machine Learning with Graphs | N/A | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&pp=iAQB) |
-| Stanford CS234 | Reinforcement Learning | Winter 2019 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&pp=iAQB) |
-| Stanford CS229M | Machine Learning Theory | Fall 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=I-tmjGFaaBg&list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh&pp=iAQB) |
-| Stanford CS229 | Machine Learning Course | Summer 2019 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&pp=iAQB) |
-| Stanford EE104 | Introduction to Machine Learning Full Course | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
+|  CS105 | Introduction to Computers Full Course | N/A | ⭐ | [Youtube](https://youtube.com/watch?v=Qpw-udshXdM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&pp=iAQB) |
+|  CS229 | Machine Learning Full Course taught by Andrew Ng | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&pp=iAQB) |
+|  CS221 | Artificial Intelligence: Principles and Techniques | Autumn 2021 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&pp=iAQB) |
+|  CS224W | Machine Learning with Graphs | N/A | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&pp=iAQB) |
+|  CS234 | Reinforcement Learning | Winter 2019 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&pp=iAQB) |
+|  CS229M | Machine Learning Theory | Fall 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=I-tmjGFaaBg&list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh&pp=iAQB) |
+|  CS229 | Machine Learning Course | Summer 2019 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&pp=iAQB) |
+|  EE104 | Introduction to Machine Learning Full Course | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
 | Workshop |  ML Explainability by Professor Hima Lakkaraju | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
-| Stanford CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
-| - | Introduction to Statistics | N/A | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/stanford-statistics) |
-| Stanford CS230 | Deep Learning | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&pp=iAQB) |
-| Stanford CS330 | Deep Multi-Task and Meta Learning | Autumn 2022 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI&pp=iAQB) |
-| Stanford CS330 | Deep Multi-Task & Meta Learning - Professor Chelsea Finn | Autumn 2021I  | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=dYmJd_fJLW0&list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36&pp=iAQB) |
-| Stanford CS330 | Deep Multi-task and Meta Learning | Autumn 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=0KWT9wIYoF8&list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa&pp=iAQB) |
-| Stanford CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
-| Stanford CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
-| Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
+|  CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
+| - | Introduction to Statistics | N/A | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/-statistics) |
+|  CS230 | Deep Learning | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&pp=iAQB) |
+|  CS330 | Deep Multi-Task and Meta Learning | Autumn 2022 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI&pp=iAQB) |
+|  CS330 | Deep Multi-Task & Meta Learning - Professor Chelsea Finn | Autumn 2021I  | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=dYmJd_fJLW0&list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36&pp=iAQB) |
+|  CS330 | Deep Multi-task and Meta Learning | Autumn 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=0KWT9wIYoF8&list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa&pp=iAQB) |
+|  CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
+|  CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
+|  CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
 |  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 
 ---
@@ -57,13 +57,13 @@ Now, the best part is that these courses not only provide lectures but also clas
 ## **MIT OpenCourseware**
 | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- |
-| MIT 6.0001 | Introduction to Computer Science and Programming in Python | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&pp=iAQB) |
-| MIT 6.0002 | Introduction to Computational Thinking and Data Science | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&pp=iAQB) |
-| MIT 6.006 | Introduction to Algorithms | Spring 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&pp=iAQB) |
-| MIT 6.042J | Mathematics for Computer Science | Spring 2015 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&pp=iAQB) |
-| MIT 6.034 | Artificial Intelligence | Fall 2010 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&pp=iAQB) |
-| MIT 6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
-| MIT 6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
+|  6.0001 | Introduction to Computer Science and Programming in Python | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&pp=iAQB) |
+|  6.0002 | Introduction to Computational Thinking and Data Science | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&pp=iAQB) |
+|  6.006 | Introduction to Algorithms | Spring 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&pp=iAQB) |
+|  6.042J | Mathematics for Computer Science | Spring 2015 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&pp=iAQB) |
+|  6.034 | Artificial Intelligence | Fall 2010 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&pp=iAQB) |
+|  6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
+|  6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
 
 
 ---
@@ -109,7 +109,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 
 ---
 ---
-➡️ **See University list and topic list** ⬆️ - [***CLICK HERE***](#universities-and-topics-listed)
+➡️ Resourses from only few selected universities are presented here in this page. **To get access to all resources, check university and topic list.** ⬆️ [***CLICK HERE***](#universities-and-topics-listed) ⬆️
 
 ---
 

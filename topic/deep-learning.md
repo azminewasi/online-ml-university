@@ -22,6 +22,8 @@ Deep Learning, a subset of machine learning, is a highly effective approach that
 | UC Berkeley | CS 294 | Deep Unsupervised Learning | Spring 2020 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) |
 | Carnegie Mellon University | CS/LTI 11-785 | Introduction to Deep Learning                         | |⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
 | Kaggle | | Intro to Deep Learning                            | |⭐| [URL](https://www.kaggle.com/learn/intro-to-deep-learning)                                 |
+| Fast.ai | | Practical Deep Learning for Coders          | |⭐| [URL](https://course.fast.ai/)                                 |
+| Lightning.AI | | Deep Learning Fundamentals  | |⭐| [URL](https://lightning.ai/pages/courses/deep-learning-fundamentals/) |
 
 
 

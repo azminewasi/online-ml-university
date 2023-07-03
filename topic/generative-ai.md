@@ -18,11 +18,11 @@ Generative AI refers to the field of artificial intelligence focused on creating
 | DeepLearning.AI |  Building Systems with the ChatGPT API       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
 | Weights and Biases | Building LLM-Powered Apps | ⭐ | [Link (Free)](https://www.wandb.courses/courses/building-llm-powered-apps)           |
 | Weights and Biases | Training and Fine-tuning Large Language Models (LLMs) | ⭐ | [Link (Free)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) |
-| Prompt Engineering | Prompt Engineering Guide | ⭐ | [Websitye](https://www.promptingguide.ai/) |
+| Prompt Engineering | Prompt Engineering Guide | ⭐ | [Website](https://www.promptingguide.ai/) |
 | The Full Stack | LLM Bootcamp - Spring 2023 | ⭐⭐ | [YT](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
 | Databricks | Large Language Models (LLMs): Application through Production | ⭐⭐ | [Link (Free)](https://customer-academy.databricks.com/learn/course/internal/view/elearning/1749/large-language-models-llms-application-through-production) |
 | ActiveLoop | LangChain & Vector Databases in Production | ⭐⭐ | [Link (Free)](https://learn.activeloop.ai/courses/langchain) |
-
+| Cohere | LLM in Production | ⭐⭐ | [Youtuve](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA) |
 
 
 ---
