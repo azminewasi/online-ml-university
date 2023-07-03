@@ -23,7 +23,7 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | Carnegie Mellon University | CS/LTI 11-777 | Multimodal Machine Learning                           | |⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
 | Google | | Machine Learning Crash Course | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course)| 
 | Google | | Basics of Machine Learning | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)| 
-
+| Kaggle | | Intro to AI Ethics                                | | | [URL](https://www.kaggle.com/learn/intro-to-ai-ethics)                                     |
 
 
 
