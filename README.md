@@ -1,5 +1,6 @@
 # **Online ML University: Free AI & ML Resources**
-Machine Learning helps machines learn by using specialized algorithms and statistical models. And the best part? You don't need a fancy degree to learn this stuff! Some of **the world's top universities offer free online resources** that can help you get started. Don't miss out on this opportunity - start your learning journey today!
+Many students/AI enthusiasts have questions about where to start with Machine Learning. There are learning paths out there that suggest what to learn, they often miss the main question - 'where do I learn?' Luckily, **there are tons of free courses available from top universities like Stanford, Harvard, MIT, and CMU - covering basic to advanced topics.**
+Now, the best part is that these courses not only provide lectures but also class slides, codes, and detailed lecture plans. To make things even easier, I've compiled a list of these courses in thus repository. You'll find all links of different courses from top universities. It's all free and accessible to anyone.
 
 ***This repository contains a curated list of top AI courses offered by renowned universities.***
 
