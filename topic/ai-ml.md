@@ -24,8 +24,7 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | Google | | Machine Learning Crash Course | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course)| 
 | Google | | Basics of Machine Learning | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)| 
 | Kaggle | | Intro to AI Ethics                                | | | [URL](https://www.kaggle.com/learn/intro-to-ai-ethics)                                     |
-
-
+| - || ML Course by Yury Kashnitsky       | | | [URL]([https://www.kaggle.com/learn/intro-to-ai-ethics](https://mlcourse.ai/book/index.html))     |
 
 ---
 ---
