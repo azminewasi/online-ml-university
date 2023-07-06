@@ -29,82 +29,77 @@ Now, the best part is that these courses not only provide lectures but also clas
 ---
 ---
 
-## **Stanford University**
-| Course Code | Course Name | Session | Difficulty | URL |
-| --- | --- | --- | --- | --- |
-|  CS105 | Introduction to Computers Full Course | N/A | ⭐ | [Youtube](https://youtube.com/watch?v=Qpw-udshXdM&list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN&pp=iAQB) |
-|  CS229 | Machine Learning Full Course taught by Andrew Ng | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&pp=iAQB) |
-|  CS221 | Artificial Intelligence: Principles and Techniques | Autumn 2021 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&pp=iAQB) |
-|  CS224W | Machine Learning with Graphs | N/A | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&pp=iAQB) |
-|  CS234 | Reinforcement Learning | Winter 2019 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&pp=iAQB) |
-|  CS229M | Machine Learning Theory | Fall 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=I-tmjGFaaBg&list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh&pp=iAQB) |
-|  CS229 | Machine Learning Course | Summer 2019 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&pp=iAQB) |
-|  EE104 | Introduction to Machine Learning Full Course | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
-| Workshop |  ML Explainability by Professor Hima Lakkaraju | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
-|  CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
-| - | Introduction to Statistics | N/A | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/-statistics) |
-|  CS230 | Deep Learning | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&pp=iAQB) |
-|  CS330 | Deep Multi-Task and Meta Learning | Autumn 2022 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI&pp=iAQB) |
-|  CS330 | Deep Multi-Task & Meta Learning - Professor Chelsea Finn | Autumn 2021I  | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=dYmJd_fJLW0&list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36&pp=iAQB) |
-|  CS330 | Deep Multi-task and Meta Learning | Autumn 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=0KWT9wIYoF8&list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa&pp=iAQB) |
-|  CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
-|  CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
-|  CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
-|  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+
+# **Deep Learning**
+| Source | Course Code | Course Name | Session | Difficulty | URL |
+| --- | --- | --- | --- | --- | --- |
+| Stanford University| Stanford CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
+| Stanford University| Stanford CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
+| Stanford University| Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
+| UCL x DeepMind | | Deep Learning Course | 2018 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc) |
+| UCL x DeepMind | | Deep Learning Lecture Series | 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |
+| UCL x DeepMind |  | Deep Learning Lecture Series | 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
+| New York University |  | Deep Learning by Yann LeCun                             |  Spring, 2021   | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)      |
+| UC Berkeley | STAT-157 | Deep Learning | 2019 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) |
+| UC Berkeley | CS 182 | Deep Learning | Spring 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
+| UC Berkeley | CS 294 | Deep Unsupervised Learning | Spring 2020 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) |
+| Carnegie Mellon University | CS/LTI 11-785 | Introduction to Deep Learning                         | |⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
+| Kaggle | | Intro to Deep Learning                            | |⭐| [URL](https://www.kaggle.com/learn/intro-to-deep-learning)                                 |
+| Fast.ai | | Practical Deep Learning for Coders          | |⭐| [URL](https://course.fast.ai/)                                 |
+| Lightning.AI | | Deep Learning Fundamentals  | |⭐| [URL](https://lightning.ai/pages/courses/deep-learning-fundamentals/) |
 
 ---
 
-## **MIT OpenCourseware**
-| Course Code | Course Name | Session | Difficulty | URL |
-| --- | --- | --- | --- | --- |
-|  6.0001 | Introduction to Computer Science and Programming in Python | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&pp=iAQB) |
-|  6.0002 | Introduction to Computational Thinking and Data Science | Fall 2016 | ⭐ | [Youtube](https://youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd&pp=iAQB) |
-|  6.006 | Introduction to Algorithms | Spring 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&pp=iAQB) |
-|  6.042J | Mathematics for Computer Science | Spring 2015 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&pp=iAQB) |
-|  6.034 | Artificial Intelligence | Fall 2010 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&pp=iAQB) |
-|  6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
-|  6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
+# **Natural Language Processing**
 
-
----
-
-## **Carnegie Mellon University**
-| Course Code   | Course Name                                           | Difficulty    | URL                                                         |
-|---------------|-------------------------------------------------------|---------------|-------------------------------------------------------------|
-| CS/LTI 11-711 | Advanced NLP                                          | ⭐⭐⭐ | [Youtube](https://lnkd.in/gSt29ZVt)      |
-| CS/LTI 11-747 | Neural Networks for NLP                               | ⭐⭐ | [Youtube](https://lnkd.in/gRRrY8uq)      |
-| CS/LTI 11-737 | Multilingual NLP                                      | ⭐⭐⭐  | [Youtube](https://lnkd.in/g8QkaTfy)      |
-| CS/LTI 11-777 | Multimodal Machine Learning                           | ⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
-| CS/LTI 11-785 | Introduction to Deep Learning                         | ⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
-| CS/LTI Bootcamp| Low Resource NLP Bootcamp 2020 by Graham Neubig       | ⭐⭐⭐| [Youtube](https://lnkd.in/grYqa3YZ)     |
-
----
-
-
-## **UC Berkeley**
-| Course Code | Course Name | Session/Year | Difficulty | URL |
-| --- | --- | --- | --- | --- |
-| CS 188 | Introduction to Artificial Intelligence | Fal 2018 | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) |
-| CS 198-126 | Modern Computer Vision | Fal 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5) |
-| STAT-157 | Deep Learning | 2019 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) |
-| CS 182 | Deep Learning | Spring 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
-| CS 294 | Deep Unsupervised Learning | Spring 2020 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) |
-| CS 285 | Deep Reinforcement Learning | Fall 2021 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH) |
-| CS 285 | Deep Reinforcement Learning | Fall 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) |
-| NIPS 2016 | Deep Learning for Action and Interaction Workshop | 2016 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY) |
+| Source | Course Code | Course Name | Session | Difficulty | URL |
+| --- | --- | --- | --- | --- | --- |
+| Stanford | Stanford CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
+| Stanford | Stanford CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
+| Stanford | Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
+| Carnegie Mellon University | CS/LTI 11-711 | Advanced NLP                                          | |⭐⭐⭐ | [Youtube](https://lnkd.in/gSt29ZVt)      |
+| Carnegie Mellon University | CS/LTI 11-747 | Neural Networks for NLP                               | |⭐⭐ | [Youtube](https://lnkd.in/gRRrY8uq)      |
+| Carnegie Mellon University | CS/LTI 11-737 | Multilingual NLP                                      | |⭐⭐⭐  | [Youtube](https://lnkd.in/g8QkaTfy)      |
+| Carnegie Mellon University | CS/LTI Bootcamp| Low Resource NLP Bootcamp 2020 by Graham Neubig       | |⭐⭐⭐| [Youtube](https://lnkd.in/grYqa3YZ)     |
+| Hugging Face| |  NLP | | ⭐| [Link (Free)](https://huggingface.co/learn/nlp-course/chapter1/1) |
 
 
 ---
 
-## **Microsoft** and **Linkedin Learning**
-| Learning Path Name    | Link  |
-|--------|-----|
-| Career Essentials in Generative AI by Microsoft and LinkedIn         | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)           |
-| Career Essentials in Software Development by Microsoft and LinkedIn  | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin)    |
-| Career Essentials in Data Analysis by Microsoft and LinkedIn         | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-data-analysis-by-microsoft-and-linkedin)           |
-| Career Essentials in Administrative Assistance by Microsoft and LinkedIn | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-administrative-assistance-by-microsoft-and-linkedin)        |
-| Career Essentials in Project Management by Microsoft and LinkedIn     | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-project-management-by-microsoft-and-linkedin)      |
-| Career Essentials in Business Analysis by Microsoft and LinkedIn      | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-business-analysis-by-microsoft-and-linkedin)      |
+# **Computer Vision**
+
+| Source | Course Code | Course Name | Session | Difficulty | URL |
+| --- | --- | --- | --- | --- | --- |
+| Stanford |  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| MIT |  6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
+| University of Michigan | - | Deep Learning for Computer Vision                    | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)      |
+| UC Berkeley | NIPS 2016 | Deep Learning for Action and Interaction Workshop | 2016 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY) |
+| UC Berkeley | CS 198-126 | Modern Computer Vision | Fal 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5) |
+| Roboflow | | Computer Vision in Practice | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
+
+
+---
+
+# **Generative AI + LLMs**
+| Source | Course Name | Difficulty | URL |
+| --- | --- |  --- | --- |
+| Microsoft and Linkedin Learning | Career Essentials in Generative AI by Microsoft and LinkedIn         | ⭐ | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)           |
+| Google |  Generative AI learning path       | ⭐ | [Link (Free)](https://www.cloudskillsboost.google/journeys/118)           |
+| DeepLearning.AI |  ChatGPT Prompt Engineering for Developers       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  LangChain for LLM Application Development       | ⭐⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  How Diffusion Models Work       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  Building Systems with the ChatGPT API       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| DeepLearning.AI |  LangChain: Chat with Your Data       | ⭐ | [Link (Free)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)           |
+| DeepLearning.AI and AWS |  Generative AI with Large Language Models      | ⭐ | [Coursera (Free Audit)](https://www.coursera.org/learn/generative-ai-with-llms)           |
+| Weights and Biases | Building LLM-Powered Apps | ⭐ | [Link (Free)](https://www.wandb.courses/courses/building-llm-powered-apps)           |
+| Weights and Biases | Training and Fine-tuning Large Language Models (LLMs) | ⭐ | [Link (Free)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) |
+| Prompt Engineering | Prompt Engineering Guide | ⭐ | [Website](https://www.promptingguide.ai/) |
+| The Full Stack | LLM Bootcamp - Spring 2023 | ⭐⭐ | [YT](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
+| Databricks | Large Language Models (LLMs): Application through Production | ⭐⭐ | [Link (Free)](https://customer-academy.databricks.com/learn/course/internal/view/elearning/1749/large-language-models-llms-application-through-production) |
+| ActiveLoop | LangChain & Vector Databases in Production | ⭐⭐ | [Link (Free)](https://learn.activeloop.ai/courses/langchain) |
+| Cohere | LLM in Production | ⭐⭐ | [Youtuve](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA) |
+
+
 
 
 ---

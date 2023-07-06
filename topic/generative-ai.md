@@ -17,6 +17,7 @@ Generative AI refers to the field of artificial intelligence focused on creating
 | DeepLearning.AI |  How Diffusion Models Work       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
 | DeepLearning.AI |  Building Systems with the ChatGPT API       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
 | DeepLearning.AI |  LangChain: Chat with Your Data       | ⭐ | [Link (Free)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)           |
+| DeepLearning.AI and AWS |  Generative AI with Large Language Models      | ⭐ | [Coursera (Free Audit)](https://www.coursera.org/learn/generative-ai-with-llms)           |
 | Weights and Biases | Building LLM-Powered Apps | ⭐ | [Link (Free)](https://www.wandb.courses/courses/building-llm-powered-apps)           |
 | Weights and Biases | Training and Fine-tuning Large Language Models (LLMs) | ⭐ | [Link (Free)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) |
 | Prompt Engineering | Prompt Engineering Guide | ⭐ | [Website](https://www.promptingguide.ai/) |
