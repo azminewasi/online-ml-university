@@ -18,7 +18,7 @@ $~$
 | CS 285 | Deep Reinforcement Learning | Fall 2021 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH) |
 | CS 285 | Deep Reinforcement Learning | Fall 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) |
 | NIPS 2016 | Deep Learning for Action and Interaction Workshop | 2016 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY) |
-
+| | Reproducible Deep Learning by Simone Scardapane | |⭐⭐| [URL](https://www.sscardapane.it/teaching/reproducibledl/) |
 
 
 

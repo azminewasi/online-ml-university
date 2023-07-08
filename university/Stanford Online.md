@@ -28,6 +28,7 @@ Stanford University is a world-renowned private research university located in S
 | Stanford CS330 | Deep Multi-Task & Meta Learning - Professor Chelsea Finn | Autumn 2021I  | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=dYmJd_fJLW0&list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36&pp=iAQB) |
 | Stanford CS330 | Deep Multi-task and Meta Learning | Autumn 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=0KWT9wIYoF8&list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa&pp=iAQB) |
 
+
 #### Natural Language Processing
 | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- |
@@ -40,7 +41,10 @@ Stanford University is a world-renowned private research university located in S
 | --- | --- | --- | --- | --- |
 |  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 
-
+### Others
+| Course Code | Course Name | Session | Difficulty | URL |
+| --- | --- | --- | --- | --- |
+| Stanford CS324W |  Foundation Models and their Applications | Winter 2023 | ⭐⭐ | [Website](https://stanford-cs324.github.io/winter2023/syllabus/) |
 
 ---
 ---
