@@ -40,14 +40,15 @@ Generative AI refers to the field of artificial intelligence focused on creating
 | Weights and Biases | Building LLM-Powered Apps | ⭐ | [Link (Free)](https://www.wandb.courses/courses/building-llm-powered-apps)           |
 | Weights and Biases | Training and Fine-tuning Large Language Models (LLMs) | ⭐ | [Link (Free)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) |
 | Databricks | Large Language Models (LLMs): Application through Production | ⭐⭐ | [Link (Free)](https://customer-academy.databricks.com/learn/course/internal/view/elearning/1749/large-language-models-llms-application-through-production) |
-| Cohere | LLM in Production | ⭐⭐ | [Youtuve](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA) |
+| Cohere | LLM in Production | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA) |
 
 
 # **Diffusion Models**
 | Source | Course Name | Difficulty | URL |
 | --- | --- |  --- | --- |
 | DeepLearning.AI |  How Diffusion Models Work       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
-| Hugging Face | Diffusion Models Course | ⭐⭐ | [Youtuve](https://github.com/huggingface/diffusion-models-class) |
+| Hugging Face | Diffusion Models Course | ⭐⭐ | [Youtube](https://github.com/huggingface/diffusion-models-class) |
+| Fast.ai | From Deep Learning Foundations to Stable Diffusion | ⭐⭐ | [Website](https://course.fast.ai/Lessons/part2.html) |
 
 ---
 ---
