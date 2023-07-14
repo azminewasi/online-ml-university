@@ -6,21 +6,20 @@ Now, the best part is that these courses not only provide lectures but also clas
 
 ---
 
-## **Universities and Topics Listed:**
-| University / Course Provider | Topic |
-| --- | --- |
-|  [Massachusetts Institute of Technology (MIT)](https://github.com/azminewasi/online-ml-university/blob/main/university/MIT%20OpenCourseware.md) | [Artificial Intelligence, Machine Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai-ml.md) |
-|  [Stanford University](https://github.com/azminewasi/online-ml-university/blob/main/university/Stanford%20Online.md) | [Computer Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/cs.md) |
-|  [Harvard Uniersity](https://github.com/azminewasi/online-ml-university/blob/main/university/Harvard-University.md) | [Statistics](https://github.com/azminewasi/online-ml-university/blob/main/topic/statistics.md) |
-|  [UCL x DeepMind](https://github.com/azminewasi/online-ml-university/blob/main/university/UCLxDeepMind.md) | [Data Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/data-science.md) |
-|  [Carnegie Mellon University](https://github.com/azminewasi/online-ml-university/blob/main/university/Carnegie%20Mellon%20University.md) | [Deep Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/deep-learning.md) |
-|  [University of London](https://github.com/azminewasi/online-ml-university/blob/main/university/University-of-London.md) | [Computer Vision](https://github.com/azminewasi/online-ml-university/blob/main/topic/cv.md) |
-|  [University of Michigan](https://github.com/azminewasi/online-ml-university/blob/main/university/University-of-Michigan.md) | [Natural Language Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/nlp.md) |
-|  [UC Berkeley](https://github.com/azminewasi/online-ml-university/blob/main/university/UC%20Berkeley.md) | [Generative AI & LLMs](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai.md) | 
-|  [Princeton University](https://github.com/azminewasi/online-ml-university/blob/main/university/Princeton-University.md) | [Graph Neural Networks](https://github.com/azminewasi/online-ml-university/blob/main/topic/gnn.md) |
-|  [Microsoft and Linkedin Learning](https://github.com/azminewasi/online-ml-university/blob/main/university/Microsoft%20%26%20Linkedin%20Learning.md) | [Reinforcement Learning](https://github.com/azminewasi/Curated-Reinforcement-Learning-Resources) |
-|  [Hugging Face](https://github.com/azminewasi/online-ml-university/blob/main/university/HF.md) | [Time Series/Audio/Signal Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/time-series-audio-speech-processing.md) |
-|  [Kaggle](https://github.com/azminewasi/online-ml-university/blob/main/university/Kaggle.md) | [MLOps](https://github.com/azminewasi/online-ml-university/blob/main/topic/mlops.md) |
+# **Topics Listed:**
+-   [Artificial Intelligence, Machine Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai-ml.md) 
+-  [Computer Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/cs.md) 
+-  [Statistics](https://github.com/azminewasi/online-ml-university/blob/main/topic/statistics.md) 
+-  [Data Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/data-science.md) 
+-  [Deep Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/deep-learning.md) 
+-  [Computer Vision](https://github.com/azminewasi/online-ml-university/blob/main/topic/cv.md) 
+-  [Natural Language Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/nlp.md) 
+-  [Generative AI & LLMs](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai.md) 
+-  [Generative AI with Vision](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai-vision.md) 
+-  [Graph Neural Networks](https://github.com/azminewasi/online-ml-university/blob/main/topic/gnn.md) 
+-  [Reinforcement Learning](https://github.com/azminewasi/Curated-Reinforcement-Learning-Resources) 
+-  [Time Series/Audio/Signal Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/time-series-audio-speech-processing.md) 
+-  [MLOps](https://github.com/azminewasi/online-ml-university/blob/main/topic/mlops.md) 
 
 
 
@@ -35,20 +34,13 @@ Now, the best part is that these courses not only provide lectures but also clas
 # **Deep Learning**
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
-| Stanford University| Stanford CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
-| Stanford University| Stanford CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
-| Stanford University| Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
 | UCL x DeepMind | | Deep Learning Course | 2018 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc) |
-| UCL x DeepMind | | Deep Learning Lecture Series | 2020 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |
-| UCL x DeepMind |  | Deep Learning Lecture Series | 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
-| New York University |  | Deep Learning by Yann LeCun                             |  Spring, 2021   | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)      |
+| UCL x DeepMind | | Deep Learning Lecture Series | 2020 | ⭐⭐⭐ | [Youtube](https://
 | UC Berkeley | STAT-157 | Deep Learning | 2019 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) |
 | UC Berkeley | CS 182 | Deep Learning | Spring 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
 | UC Berkeley | CS 294 | Deep Unsupervised Learning | Spring 2020 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) |
 | Carnegie Mellon University | CS/LTI 11-785 | Introduction to Deep Learning                         | |⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
-| Kaggle | | Intro to Deep Learning                            | |⭐| [URL](https://www.kaggle.com/learn/intro-to-deep-learning)                                 |
-| Fast.ai | | Practical Deep Learning for Coders          | |⭐| [URL](https://course.fast.ai/)                                 |
-| Lightning.AI | | Deep Learning Fundamentals  | |⭐| [URL](https://lightning.ai/pages/courses/deep-learning-fundamentals/) |
+
 
 ---
 
@@ -74,10 +66,26 @@ Now, the best part is that these courses not only provide lectures but also clas
 | --- | --- | --- | --- | --- | --- |
 | Stanford |  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 | MIT |  6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
+| Carnegie Mellon University | 16-385 |  Computer Vision | Spring 2022 | ⭐⭐⭐| [Website](http://16385.courses.cs.cmu.edu/spring2022/)     |
 | University of Michigan | - | Deep Learning for Computer Vision                    | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)      |
+| - | - |  An Invitation to 3D Vision: A Tutorial for Everyone | -   | ⭐⭐| [Github](https://github.com/mint-lab/3dv_tutorial)     |
 | UC Berkeley | NIPS 2016 | Deep Learning for Action and Interaction Workshop | 2016 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVCLmikLdaQOBntJuCZLwQY) |
 | UC Berkeley | CS 198-126 | Modern Computer Vision | Fal 2022 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5) |
-| Roboflow | | Computer Vision in Practice | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
+| UC Berkeley | CS194-26/294-26 |  Intro to Computer Vision and Computational Photography || ⭐⭐ | [Website](https://inst.eecs.berkeley.edu/~cs194-26/fa20/) |
+| Stanford | CS231A |  Computer Vision, From 3D Reconstruction to Recognition | | ⭐⭐ | [Website (Slides)](https://web.stanford.edu/class/cs231a/course_notes.html) |
+| Carnegie Mellon University | 16-889 |  Learning for 3D Vision | Spring 2023   | ⭐⭐| [Website](https://learning3d.github.io/)     |
+| Carnegie Mellon University | 15-463, 15-663, 15-862 | Computational photography | Fall 2022    | ⭐⭐⭐| [Website](http://graphics.cs.cmu.edu/courses/15-463/)     |
+| Carnegie Mellon University | 15-468, 15-668, 15-868 | Physics-based rendering | Spring 2023   | ⭐⭐⭐| [Website](http://graphics.cs.cmu.edu/courses/15-468/)     |
+| Carnegie Mellon University | 16-726 | Learning-Based Image Synthesis | Spring 2023   | ⭐⭐⭐| [Website](https://learning-image-synthesis.github.io/sp23/)     |
+| Carnegie Mellon University | 16-822 | Geometry-based Methods in Vision | Fall 2022   | ⭐⭐⭐| [Website](https://geometric3d.github.io/)     |
+| Carnegie Mellon University |  CSCI 5980 | Multiview 3D Geometry in Computer Vision |Spring 2018  | ⭐⭐⭐| [Website](https://www-users.cse.umn.edu/~hspark/CSci5980/csci5980_3dvision.html)     |
+| Carnegie Mellon University | CS 598 | 3D Vision | Fall 2021   | ⭐⭐⭐| [Website](https://courses.engr.illinois.edu/cs598dwh/fa2021/)     |
+| UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN | 16-823 | Physics based Methods in Vision | Spring 2020   | ⭐⭐⭐| [Website](https://www.cs.cmu.edu/~motoole2/16823-s20/)     |
+| Carnegie Mellon University | 16-824 | Visual Learning and Recognition | Spring 2023   | ⭐⭐⭐| [Website](https://visual-learning.cs.cmu.edu/)     |
+| Cornell Tech| CS5670 | Introduction to Computer Vision | Spring 2022  | ⭐⭐| [Website](http://www.cs.cornell.edu/courses/cs5670/2022sp/)     |
+| MIT | 6.819/6.869 | Advances in Computer Vision	 | Spring 2021  | ⭐⭐⭐| [Website](http://6.869.csail.mit.edu/sp21/)     |
+| Carnegie Mellon University | 16-721 | Learning-Based Methods in Vision | Spring 2007   | ⭐⭐⭐| [Website](http://www.cs.cmu.edu/~efros/courses/LBMV07//)     |
+| New York University | CSCI-GA.2271-001  | Computer Vision | Fall 2022 | ⭐⭐| [Website](https://cs.nyu.edu/~fergus/teaching/vision/index.html)     |
 
 
 ---
@@ -106,7 +114,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 
 ---
 ---
-➡️ Resourses from only few selected universities are presented here in this page. **To get access to all resources, check university and topic list.** ⬆️ [***CLICK HERE***](#universities-and-topics-listed) ⬆️
+➡️ Only few  selected resourses from only few selected topics are presented here in this page. **To get access to all resources, check topic list an go to topic wise pages.** ⬆️ [***CLICK HERE***](#topics-listed) ⬆️
 
 ---
 

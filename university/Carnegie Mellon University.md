@@ -16,7 +16,7 @@ Carnegie Mellon University (CMU) is a renowned private research university locat
 | CS/LTI 11-777 | Multimodal Machine Learning                           | ⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
 | CS/LTI 11-785 | Introduction to Deep Learning                         | ⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
 | CS/LTI Bootcamp| Low Resource NLP Bootcamp 2020 by Graham Neubig       | ⭐⭐⭐| [Youtube](https://lnkd.in/grYqa3YZ)     |
-
+| 16-889 |  Learning for 3D Vision - Spring 2023   | ⭐⭐| [Website](https://learning3d.github.io/)     |
 
 ---
 ---

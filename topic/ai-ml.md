@@ -22,13 +22,14 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | UC Berkeley | CS 188 | Introduction to Artificial Intelligence | Fal 2018 | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) |
 | Carnegie Mellon University | CS/LTI 11-777 | Multimodal Machine Learning                           | |⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
 | Google | | Machine Learning Crash Course | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course)| 
-| Google | | Basics of Machine Learning | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)| 
-| Kaggle | | Intro to AI Ethics                                | | | [URL](https://www.kaggle.com/learn/intro-to-ai-ethics)                                     |
-| - || ML Course by Yury Kashnitsky       | | | [URL]([https://www.kaggle.com/learn/intro-to-ai-ethics](https://mlcourse.ai/book/index.html))     |
-| Class Central || Elements of AI   | | | [URL](https://www.classcentral.com/course/independent-elements-of-ai-12469?utm_source=online-ml-university)     |
-| Udacity || Intro to TensorFlow for Deep Learning | | | [URL](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)     |
 | Harvard | CS197 | AI Research Experiences | - | ⭐⭐⭐ | [Course Website](https://www.cs197.seas.harvard.edu/) |
 | | | The State of Competitive Machine Learning | - | ⭐⭐⭐ | [Website](https://mlcontests.com/state-of-competitive-machine-learning-2022/?ref=mlctwitter%E2%80%A6#winning-solutions) |
+| National University of Singapore | | Uncertainty Modeling in AI | - | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H) |
+| Google | | Basics of Machine Learning | | ⭐ | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)| 
+| Kaggle | | Intro to AI Ethics                                | | ⭐ | [URL](https://www.kaggle.com/learn/intro-to-ai-ethics)                                     |
+| - || ML Course by Yury Kashnitsky       | | ⭐ |  [URL]([https://www.kaggle.com/learn/intro-to-ai-ethics](https://mlcourse.ai/book/index.html))     |
+| Class Central || Elements of AI   | | ⭐ | [URL](https://www.classcentral.com/course/independent-elements-of-ai-12469?utm_source=online-ml-university)     |
+| Udacity || Intro to TensorFlow for Deep Learning | | ⭐⭐ | [URL](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)     |
 
 
 

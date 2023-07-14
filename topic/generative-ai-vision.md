@@ -14,34 +14,12 @@ Generative AI refers to the field of artificial intelligence focused on creating
 | Google |  Generative AI learning path       | ⭐ | [Link (Free)](https://www.cloudskillsboost.google/journeys/118)           |
 
 
-# **LLMs Core**
+# **Diffusion Models**
 | Source | Course Name | Difficulty | URL |
 | --- | --- |  --- | --- |
-| Prompt Engineering | Prompt Engineering Guide | ⭐ | [Website](https://www.promptingguide.ai/) |
-| The Full Stack | LLM Bootcamp - Spring 2023 | ⭐⭐ | [YT](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
-
-# **LLMs ChatGPT**
-| Source | Course Name | Difficulty | URL |
-| --- | --- |  --- | --- |
-| DeepLearning.AI |  ChatGPT Prompt Engineering for Developers       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
-| DeepLearning.AI |  Building Systems with the ChatGPT API       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
-
-# **LLMs LangChain**
-| Source | Course Name | Difficulty | URL |
-| --- | --- |  --- | --- |
-| DeepLearning.AI |  LangChain for LLM Application Development       | ⭐⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
-| DeepLearning.AI |  LangChain: Chat with Your Data       | ⭐ | [Link (Free)](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)           |
-| ActiveLoop | LangChain & Vector Databases in Production | ⭐⭐ | [Link (Free)](https://learn.activeloop.ai/courses/langchain) |
-
-# **LLMs Others**
-| Source | Course Name | Difficulty | URL |
-| --- | --- |  --- | --- |
-| DeepLearning.AI and AWS |  Generative AI with Large Language Models      | ⭐ | [Coursera (Free Audit)](https://www.coursera.org/learn/generative-ai-with-llms)           |
-| Weights and Biases | Building LLM-Powered Apps | ⭐ | [Link (Free)](https://www.wandb.courses/courses/building-llm-powered-apps)           |
-| Weights and Biases | Training and Fine-tuning Large Language Models (LLMs) | ⭐ | [Link (Free)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) |
-| Databricks | Large Language Models (LLMs): Application through Production | ⭐⭐ | [Link (Free)](https://customer-academy.databricks.com/learn/course/internal/view/elearning/1749/large-language-models-llms-application-through-production) |
-| Cohere | LLM in Production | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA) |
-
+| DeepLearning.AI |  How Diffusion Models Work       | ⭐ | [Link (Free)](https://learn.deeplearning.ai/)           |
+| Hugging Face | Diffusion Models Course | ⭐⭐ | [Youtube](https://github.com/huggingface/diffusion-models-class) |
+| Fast.ai | From Deep Learning Foundations to Stable Diffusion | ⭐⭐ | [Website](https://course.fast.ai/Lessons/part2.html) |
 
 ---
 ---
