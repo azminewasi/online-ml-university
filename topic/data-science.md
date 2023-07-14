@@ -16,17 +16,22 @@ On the other hand, Data Science is a broader field that encompasses the entire d
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | University of Michigan | | Data Science Ethics | | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/data-science-ethics) |
+| Harvard || Data Science: Machine Learning | - | ⭐ | [Course Website](https://pll.harvard.edu/course/data-science-machine-learning) |
 | Stanford University| Stanford CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
 | University of London | Data Science | Foundations of Data Science: K-Means Clustering in Python | | ⭐ |[Coursera - Free Audit](https://www.coursera.org/learn/data-science-k-means-clustering-python) |
 | Microsoft and Linkedin Learning | | Career Essentials in Data Analysis by Microsoft and LinkedIn    |   |⭐   | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-data-analysis-by-microsoft-and-linkedin)           |       |
 | Microsoft and Linkedin Learning | | Career Essentials in Business Analysis by Microsoft and LinkedIn     | | ⭐   |[Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-business-analysis-by-microsoft-and-linkedin)      |
 | Google | | Data Science with Python | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations)| 
+| Harvard | | High-Dimensional Data Analysis | - | ⭐ | [Course Website](https://pll.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis) |
+
+---
+
+# **Google Aalytics**
+| Source | Course Code | Course Name | Session | Difficulty | URL |
+| --- | --- | --- | --- | --- | --- |
 | Google | | Google Analytics for Beginners | | | [URL](https://www.classcentral.com/course/google-analytics-for-beginners-98262)| 
 | Google | | Advanced Google Analytics | | | [URL](https://www.classcentral.com/course/google-advanced-google-analytics-98263)| 
 | Google | | Google Analytics for Power Users | | | [URL](https://www.classcentral.com/course/google-analytics-for-power-users-98264)| 
-
-
-
 ---
 ---
 

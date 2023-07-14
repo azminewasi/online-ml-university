@@ -12,7 +12,9 @@ Harvard University is a prestigious private Ivy League research university locat
 | Statistics 110 | 2015 | ⭐ | [Youtube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |
 | Explainable Artificial Intelligence | Spring 2023 | ⭐ | [Course Website](https://interpretable-ml-class.github.io/) |
 | Harvard CS197 - AI Research Experiences | - | ⭐⭐⭐ | [Course Website](https://www.cs197.seas.harvard.edu/) |
-
+| CS50's Introduction to Programming with Scratch | - | ⭐ | [Course Website](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) |
+| Data Science: Machine Learning | - | ⭐ | [Course Website](https://pll.harvard.edu/course/data-science-machine-learning) |
+| High-Dimensional Data Analysis | - | ⭐ | [Course Website](https://pll.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis) |
 
 ---
 ---
