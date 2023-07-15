@@ -20,7 +20,9 @@ Now, the best part is that these courses not only provide lectures but also clas
 -  [Reinforcement Learning](https://github.com/azminewasi/Curated-Reinforcement-Learning-Resources) 
 -  [Time Series/Audio/Signal Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/time-series-audio-speech-processing.md) 
 -  [MLOps](https://github.com/azminewasi/online-ml-university/blob/main/topic/mlops.md) 
-
+-  [Psychology and Cognitive Modeling](https://github.com/azminewasi/online-ml-university/blob/main/topic/psychology-cognitive-ai.md) 
+-  [Unsupervised Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/unsupervised-learning.md)  
+-  [Explainable AI](https://github.com/azminewasi/online-ml-university/blob/main/topic/xai.md) 
 
 
 ---
@@ -35,10 +37,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | UCL x DeepMind | | Deep Learning Course | 2018 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc) |
-| UCL x DeepMind | | Deep Learning Lecture Series | 2020 | ⭐⭐⭐ | [Youtube](https://
-| UC Berkeley | STAT-157 | Deep Learning | 2019 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) |
 | UC Berkeley | CS 182 | Deep Learning | Spring 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
-| UC Berkeley | CS 294 | Deep Unsupervised Learning | Spring 2020 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) |
 | Carnegie Mellon University | CS/LTI 11-785 | Introduction to Deep Learning                         | |⭐ | [Youtube](https://lnkd.in/gVp96GdB)     |
 
 
@@ -53,8 +52,6 @@ Now, the best part is that these courses not only provide lectures but also clas
 | Stanford | Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
 | Carnegie Mellon University | CS/LTI 11-711 | Advanced NLP                                          | |⭐⭐⭐ | [Youtube](https://lnkd.in/gSt29ZVt)      |
 | Carnegie Mellon University | CS/LTI 11-747 | Neural Networks for NLP                               | |⭐⭐ | [Youtube](https://lnkd.in/gRRrY8uq)      |
-| Carnegie Mellon University | CS/LTI 11-737 | Multilingual NLP                                      | |⭐⭐⭐  | [Youtube](https://lnkd.in/g8QkaTfy)      |
-| Carnegie Mellon University | CS/LTI Bootcamp| Low Resource NLP Bootcamp 2020 by Graham Neubig       | |⭐⭐⭐| [Youtube](https://lnkd.in/grYqa3YZ)     |
 | Hugging Face| |  NLP | | ⭐| [Link (Free)](https://huggingface.co/learn/nlp-course/chapter1/1) |
 
 
@@ -76,16 +73,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 | Carnegie Mellon University | 16-889 |  Learning for 3D Vision | Spring 2023   | ⭐⭐| [Website](https://learning3d.github.io/)     |
 | Carnegie Mellon University | 15-463, 15-663, 15-862 | Computational photography | Fall 2022    | ⭐⭐⭐| [Website](http://graphics.cs.cmu.edu/courses/15-463/)     |
 | Carnegie Mellon University | 15-468, 15-668, 15-868 | Physics-based rendering | Spring 2023   | ⭐⭐⭐| [Website](http://graphics.cs.cmu.edu/courses/15-468/)     |
-| Carnegie Mellon University | 16-726 | Learning-Based Image Synthesis | Spring 2023   | ⭐⭐⭐| [Website](https://learning-image-synthesis.github.io/sp23/)     |
-| Carnegie Mellon University | 16-822 | Geometry-based Methods in Vision | Fall 2022   | ⭐⭐⭐| [Website](https://geometric3d.github.io/)     |
-| Carnegie Mellon University |  CSCI 5980 | Multiview 3D Geometry in Computer Vision |Spring 2018  | ⭐⭐⭐| [Website](https://www-users.cse.umn.edu/~hspark/CSci5980/csci5980_3dvision.html)     |
-| Carnegie Mellon University | CS 598 | 3D Vision | Fall 2021   | ⭐⭐⭐| [Website](https://courses.engr.illinois.edu/cs598dwh/fa2021/)     |
-| UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN | 16-823 | Physics based Methods in Vision | Spring 2020   | ⭐⭐⭐| [Website](https://www.cs.cmu.edu/~motoole2/16823-s20/)     |
-| Carnegie Mellon University | 16-824 | Visual Learning and Recognition | Spring 2023   | ⭐⭐⭐| [Website](https://visual-learning.cs.cmu.edu/)     |
-| Cornell Tech| CS5670 | Introduction to Computer Vision | Spring 2022  | ⭐⭐| [Website](http://www.cs.cornell.edu/courses/cs5670/2022sp/)     |
-| MIT | 6.819/6.869 | Advances in Computer Vision	 | Spring 2021  | ⭐⭐⭐| [Website](http://6.869.csail.mit.edu/sp21/)     |
-| Carnegie Mellon University | 16-721 | Learning-Based Methods in Vision | Spring 2007   | ⭐⭐⭐| [Website](http://www.cs.cmu.edu/~efros/courses/LBMV07//)     |
-| New York University | CSCI-GA.2271-001  | Computer Vision | Fall 2022 | ⭐⭐| [Website](https://cs.nyu.edu/~fergus/teaching/vision/index.html)     |
+
 
 
 ---

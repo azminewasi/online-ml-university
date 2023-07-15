@@ -12,6 +12,7 @@ Computer Vision is a field of study within computer science that focuses on deve
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | Stanford |  N/A | Convolutional Neural Networks for Visual Recognition | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+| MIT |  6.801 | Machine Vision | Fall 2020 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=tY2gczObpfU&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&pp=iAQB) | 
 | MIT |  6.S192 | Deep Learning for Art, Aesthetics, and Creativity by Ali Jahanian | N/A | ⭐⭐ | [Youtube](https://lnkd.in/gEyRbEZx) | 
 | Carnegie Mellon University | 16-385 |  Computer Vision | Spring 2022 | ⭐⭐⭐| [Website](http://16385.courses.cs.cmu.edu/spring2022/)     |
 | University of Michigan | - | Deep Learning for Computer Vision                    | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)      |

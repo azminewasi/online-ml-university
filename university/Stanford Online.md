@@ -17,7 +17,6 @@ Stanford University is a world-renowned private research university located in S
 | Stanford CS229M | Machine Learning Theory | Fall 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=I-tmjGFaaBg&list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh&pp=iAQB) |
 | Stanford CS229 | Machine Learning Course | Summer 2019 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=KzH1ovd4Ots&list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&pp=iAQB) |
 | Stanford EE104 | Introduction to Machine Learning Full Course | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
-| Workshop |  ML Explainability by Professor Hima Lakkaraju | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
 | Stanford CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
 
 #### Deep Learning

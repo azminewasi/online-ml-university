@@ -19,7 +19,6 @@ Computer Science encompasses the study of computation, algorithms, and the desig
 | Princeton University | |  Algorithms, Part I | |⭐ |  [Coursera - Free Audit](https://www.coursera.org/learn/algorithms-part1) |
 | Princeton University | | Algorithms, Part II  | |⭐⭐  | [Coursera - Free Audit](https://www.coursera.org/learn/algorithms-part2) |
 | Microsoft and Linkedin Learning | | Career Essentials in Software Development | | ⭐ | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin)    |
-| Unversity of Washington | | Computational Neuroscience | | ⭐⭐ | [Coursera](https://www.coursera.org/learn/computational-neuroscience) |
 | Harvard | | CS50's Introduction to Programming with Scratch ||  ⭐ | [Course Website](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) |
 
 ---

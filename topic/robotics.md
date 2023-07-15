@@ -1,5 +1,5 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
-Statistics is the discipline that deals with the collection, organization, analysis, interpretation, and presentation of numerical data. It involves the application of mathematical principles to gather insights and make informed decisions based on data. Statisticians use various techniques and tools to summarize and describe data sets, identify patterns, estimate parameters, test hypotheses, and make predictions. They play a crucial role in fields like research, business, healthcare, and social sciences. For example, in marketing, statisticians analyze customer data to understand consumer behavior, segment markets, and develop targeted advertising campaigns. They may utilize regression analysis, hypothesis testing, and other statistical methods to identify factors that impact sales and optimize marketing strategies for better business outcomes.
+AI and robotics have become pivotal forces in shaping the modern world. These technologies have revolutionized industries, bringing about automation and unprecedented levels of efficiency. With advancements in AI, machines have blossomed into intelligent beings capable of learning, adapting, and making decisions independently. Robotics has empowered the creation of sophisticated robots, proficient in performing complex tasks across various domains such as manufacturing and healthcare. As humans collaborate with these intelligent machines, productivity is heightened, and new frontiers are explored. However, along with these advancements, ethical considerations surrounding AI and robotics have emerged. Worries about job displacement and privacy breaches have necessitated careful deliberation and regulation to ensure the responsible and beneficial integration of these technologies into society.
 
 ***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
 
@@ -7,17 +7,12 @@ Statistics is the discipline that deals with the collection, organization, analy
 ---
 
 
-# **Statistics**
+# **Robotics**
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
-| Stanford  | - | Introduction to Statistics | N/A | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/stanford-statistics) |
-|  Harvard | | Statistics 110 | 2015 | ⭐ | [Youtube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |
-| University of London | Probability and Statistics | Probability and Statistics: To p or not to p?  | |⭐ |[Coursera - Free Audit](https://www.coursera.org/learn/probability-statistics) |
-| University of Zurich | | An Intuitive Introduction to Probability  |  | ⭐| [Coursera - Free Audit](https://www.coursera.org/learn/introductiontoprobability) |
-
-
-
+| NYU| CSCI-UA.480-072  | Robot Intelligence (Lerrel Pinto) | Spring 2022 | ⭐⭐⭐ | [Website](https://nyu-robot-learning.github.io/robot-intel-class/) |
+| MIT | -  | Introduction To Robotics | Fall 2005 | ⭐⭐⭐ | [Website](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/pages/lecture-notes/) |
 
 
 ---

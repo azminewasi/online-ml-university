@@ -19,7 +19,6 @@ Kaggle is a popular online platform for data science and machine learning enthus
 | Data Cleaning                                     | Master efficient workflows for cleaning real-world, messy data.  | [URL](https://www.kaggle.com/learn/data-cleaning)                                          |
 | Intro to AI Ethics                                | Explore practical tools to guide the moral design of AI systems. | [URL](https://www.kaggle.com/learn/intro-to-ai-ethics)                                     |
 | Geospatial Analysis                               | Create interactive maps and discover patterns in geospatial data. | [URL](https://www.kaggle.com/learn/geospatial-analysis)                                    |
-| Machine Learning Explainability                   | Extract human-understandable insights from any model.            | [URL](https://www.kaggle.com/learn/machine-learning-explainability)                        |
 | Intro to Game AI and Reinforcement Learning        | Build your own video game bots using classic and cutting-edge algorithms. | [URL](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)            |
 
 

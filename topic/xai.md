@@ -1,5 +1,5 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
-Statistics is the discipline that deals with the collection, organization, analysis, interpretation, and presentation of numerical data. It involves the application of mathematical principles to gather insights and make informed decisions based on data. Statisticians use various techniques and tools to summarize and describe data sets, identify patterns, estimate parameters, test hypotheses, and make predictions. They play a crucial role in fields like research, business, healthcare, and social sciences. For example, in marketing, statisticians analyze customer data to understand consumer behavior, segment markets, and develop targeted advertising campaigns. They may utilize regression analysis, hypothesis testing, and other statistical methods to identify factors that impact sales and optimize marketing strategies for better business outcomes.
+Explainable AI (XAI) refers to the concept of designing AI systems that can provide understandable explanations for their decision-making processes. It aims to demystify the "black box" nature of complex AI algorithms and models, increasing transparency and accountability. XAI techniques, such as rule-based systems or visualization tools, enable users to comprehend how and why AI systems arrive at specific predictions or recommendations. By fostering trust, Explainable AI encourages adoption and acceptance of AI technologies in critical domains such as healthcare and finance, where interpretability is crucial. It also facilitates human-AI collaboration, allowing users to validate and refine AI models for improved performance and fairness. 🧠🔍💡
 
 ***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
 
@@ -7,16 +7,13 @@ Statistics is the discipline that deals with the collection, organization, analy
 ---
 
 
-# **Statistics**
+# **Explainable AI (XAI)**
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
-| Stanford  | - | Introduction to Statistics | N/A | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/stanford-statistics) |
-|  Harvard | | Statistics 110 | 2015 | ⭐ | [Youtube](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |
-| University of London | Probability and Statistics | Probability and Statistics: To p or not to p?  | |⭐ |[Coursera - Free Audit](https://www.coursera.org/learn/probability-statistics) |
-| University of Zurich | | An Intuitive Introduction to Probability  |  | ⭐| [Coursera - Free Audit](https://www.coursera.org/learn/introductiontoprobability) |
-
-
+| Harvard | - | Explainable Artificial Intelligence | Spring 2023 | ⭐ | [Course Website](https://interpretable-ml-class.github.io/) |
+| Kaggle |  | Machine Learning Explainability                   | Extract human-understandable insights from any model.         |   | [URL](https://www.kaggle.com/learn/machine-learning-explainability)                        |
+| Stanford | | Workshop |  ML Explainability by Professor Hima Lakkaraju | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL) |
 
 
 
