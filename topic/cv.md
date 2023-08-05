@@ -44,6 +44,7 @@ Computer Vision is a field of study within computer science that focuses on deve
 | Georgia Tech |  CS 4476 |  Introduction to Computer Vision | Fall 2019   | ⭐⭐| [Website](https://dellaert.github.io/19F-4476/schedule.html)     |
 | EPFL | CS-442 |  Computer Vision | 2020/2021  | ⭐⭐| [Website](https://moodle.epfl.ch/course/view.php?id=472)     |
 | New York University | CSCI-GA.2271-001  | Computer Vision | Fall 2022 | ⭐⭐| [Website](https://cs.nyu.edu/~fergus/teaching/vision/index.html)     |
+| UCF Center for Research in Computer Vision | CAP6412  | Advanced Computer Vision | Spring 2023 | ⭐⭐| [Youtube](https://www.youtube.com/playlist?app=desktop&list=PLd3hlSJsX_In7qup928HaHmilugBGctuF)     |
 
 
 

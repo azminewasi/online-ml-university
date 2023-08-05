@@ -23,6 +23,7 @@ Deep Learning, a subset of machine learning, is a highly effective approach that
 | UC Berkley/ The Full Stack | | Reproducible Deep Learning by Simone Scardapane | |⭐⭐| [URL](https://www.sscardapane.it/teaching/reproducibledl/) |
 | The Full Stack | | Full Stack Deep Learning - 2022 Course | 2022 |⭐⭐| [URL](https://fullstackdeeplearning.com/course/2022/) |
 | Stanford | CS324W |  Foundation Models and their Applications | Winter 2023 | ⭐⭐ | [Website](https://stanford-cs324.github.io/winter2023/syllabus/) |
+| Calmcode | - |  Embedding Course (**Highly Recommended!!**) | Winter 2023 | ⭐ | [Website](https://calmcode.io/embeddings/introduction.html?utm_source=azminewasionlinemluniversity) |
 
 
 ---

@@ -28,6 +28,8 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | Class Central || Elements of AI   | | ⭐ | [URL](https://www.classcentral.com/course/independent-elements-of-ai-12469?utm_source=online-ml-university)     |
 | Udacity || Intro to TensorFlow for Deep Learning | | ⭐⭐ | [URL](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)     |
 | NYU| CSCI-UA.0473-​001 | Introduction to Machine Learning| - | ⭐ | [Website](https://docs.google.com/document/d/1LKtE2DsNL85iM8JKjc9ourlNX4U_pyrHq1hYWa_m_nU/edit#heading=h.62f44hystje1) |
+| -| -| Machine Learning Bookcamp by Alexey Grigorev| - | ⭐ | [GitHub](https://github.com/alexeygrigorev/mlbookcamp-code) |
+
 
 
 
