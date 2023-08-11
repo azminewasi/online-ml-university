@@ -12,7 +12,12 @@ Graph Neural Networks (GNNs) are a class of artificial neural networks specifica
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | Stanford University| Stanford CS224W | Machine Learning with Graphs | N/A | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&pp=iAQB) |
+| DeepFindr| - | Graph Neural Networks| N/A | ⭐ | [Youtube](https://www.youtube.com/watch?v=fOctJB4kVlM&list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z) |
+| WelcomeAIOverlords | - | Graph Neural Networks| N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PLSgGvve8UweGx4_6hhrF3n4wpHf_RV76_) |
+| ML Explained - Aggregate Intellect - AI.SCIENCE | - | Graph Neural Networks (Hands On)| N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLB1nTQo4_y6sfLtCrGAKG_l7xOHjtYqBk) |
+| Aleksa Gordić - The AI Epiphany | - | Graph Neural Networks | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLBoQnSflObckArGNhOcNg7lQG_f0ZlHF5) |
 | African Master in Machine Intelligence | | Geometric Deep Learning Oxford-NYU-Qualcomm-DeepMind                   |   2022   | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) |
+
 
 
 
