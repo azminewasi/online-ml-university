@@ -12,6 +12,7 @@ Natural Language Processing (NLP) is a branch of artificial intelligence and lin
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | Stanford | Stanford CS224N | Natural Language Processing with Deep Learning | Winter 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&pp=iAQB) |
+| Stanford | Stanford XCS224U | Natural Language Understanding | Spring 2023 | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) |
 | Stanford | Stanford CS224U | Natural Language Understanding | Spring 2021 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&pp=iAQB) |
 | Stanford | Stanford CS25 |  Transformers United | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
 | Carnegie Mellon University | CS/LTI 11-711 | Advanced NLP                                          | |⭐⭐⭐ | [Youtube](https://lnkd.in/gSt29ZVt)      |
