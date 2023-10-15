@@ -23,8 +23,8 @@ Now, the best part is that these courses not only provide lectures but also clas
 -  [Psychology and Cognitive Modeling](https://github.com/azminewasi/online-ml-university/blob/main/topic/psychology-cognitive-ai.md) 
 -  [Unsupervised Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/unsupervised-learning.md)  
 -  [Explainable AI](https://github.com/azminewasi/online-ml-university/blob/main/topic/xai.md) 
--  [AI for Pptimization](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai4opt.md) 
-
+-  [AI for Optimization](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai4opt.md) 
+- [Computational Neuroscience + ML](https://github.com/azminewasi/online-ml-university/blob/main/topic/neuroscience.md)
 
 ---
 
