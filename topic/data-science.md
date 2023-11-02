@@ -5,7 +5,7 @@ Data Analysis focuses on examining and interpreting data to uncover meaningful i
 On the other hand, Data Science is a broader field that encompasses the entire data lifecycle, including data collection, cleaning, analysis, modeling, and interpretation. Data scientists utilize advanced analytical techniques, machine learning algorithms, and statistical models to derive insights from data. They often employ programming languages such as Python or R and leverage tools like Jupyter notebooks and libraries like TensorFlow or scikit-learn.
 
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---
@@ -23,6 +23,8 @@ On the other hand, Data Science is a broader field that encompasses the entire d
 | Microsoft and Linkedin Learning | | Career Essentials in Business Analysis by Microsoft and LinkedIn     | | ⭐   |[Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-business-analysis-by-microsoft-and-linkedin)      |
 | Google | | Data Science with Python | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations)| 
 | Harvard | | High-Dimensional Data Analysis | - | ⭐ | [Course Website](https://pll.harvard.edu/course/data-analysis-life-sciences-4-high-dimensional-data-analysis) |
+| University of Tübingen | -|  Neural Data Science — Philipp Berens | 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) |
+
 
 ---
 

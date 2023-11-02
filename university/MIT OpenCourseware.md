@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 MIT, short for the Massachusetts Institute of Technology, is a prestigious research university located in Cambridge, Massachusetts, USA. Founded in 1861, MIT is renowned for its focus on science, technology, engineering, and mathematics (STEM) disciplines. It offers undergraduate and graduate programs across various fields, including engineering, computer science, economics, biology, architecture, and more. MIT is known for its rigorous academics, cutting-edge research, and emphasis on hands-on learning and innovation. The institution has produced numerous notable alumni and faculty who have made significant contributions to scientific advancements, entrepreneurship, and academia.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 ---
 

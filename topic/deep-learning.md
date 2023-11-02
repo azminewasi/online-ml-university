@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Deep Learning, a subset of machine learning, is a highly effective approach that utilizes artificial neural networks to process and learn from complex data patterns. Neural networks consist of interconnected nodes (neurons) organized into layers, enabling the network to extract and analyze hierarchical representations. With deep learning, these neural networks become deeper, containing multiple hidden layers that allow for more sophisticated feature extraction. This architecture empowers deep learning models to excel in solving intricate tasks such as facial recognition, natural language processing, and speech synthesis. For instance, in the field of medical imaging, deep learning has shown remarkable results in automated diagnosis. By training deep neural networks on vast datasets of medical images, they can accurately detect diseases like cancer or identify abnormalities in X-rays or MRIs, aiding physicians in making timely and accurate diagnoses. The power of deep learning lies in its ability to automatically learn and adapt to data, unlocking revolutionary advancements across various domains.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---
@@ -24,6 +24,11 @@ Deep Learning, a subset of machine learning, is a highly effective approach that
 | The Full Stack | | Full Stack Deep Learning - 2022 Course | 2022 |⭐⭐| [URL](https://fullstackdeeplearning.com/course/2022/) |
 | Stanford | CS324W |  Foundation Models and their Applications | Winter 2023 | ⭐⭐ | [Website](https://stanford-cs324.github.io/winter2023/syllabus/) |
 | Calmcode | - |  Embedding Course (**Highly Recommended!!**) | Winter 2023 | ⭐ | [Website](https://calmcode.io/embeddings/introduction.html?utm_source=azminewasionlinemluniversity) |
+| University of Tübingen | -|  Neural Data Science — Philipp Berens | 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) |
+| University of Tübingen | -|  Deep Learning — Andreas Geiger| 2022 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) |
+| University of Tübingen | -|  Math for Deep Learning — Andreas Geiger | 2020 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) |
+
+
 
 
 ---

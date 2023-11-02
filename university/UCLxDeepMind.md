@@ -1,6 +1,6 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

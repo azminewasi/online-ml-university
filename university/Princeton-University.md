@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Princeton University is a renowned private Ivy League research university located in Princeton, New Jersey. Established in 1746, it is one of the oldest universities in the United States. Princeton is known for its rigorous academics, distinguished faculty, and beautiful campus. It offers a wide range of undergraduate and graduate programs in various fields, including the humanities, social sciences, natural sciences, engineering, and more. The university is committed to providing students with a rich educational experience and fostering a vibrant intellectual community.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

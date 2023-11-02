@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Kaggle is a popular online platform for data science and machine learning enthusiasts. It provides a collaborative environment where users can access datasets, participate in competitions, and share knowledge with a vibrant community. Kaggle offers a wide range of educational resources, including courses and notebooks, making it a valuable hub for learning and honing data science skills. With its vast array of challenges and tools, Kaggle empowers data scientists to tackle real-world problems, explore innovative solutions, and drive advancements in the field.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

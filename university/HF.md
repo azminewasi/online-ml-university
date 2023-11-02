@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Hugging Face is a company that specializes in natural language processing (NLP) and offers a popular open-source library called Transformers. The Transformers library provides a simple and efficient way to use state-of-the-art NLP models, including the powerful GPT-3 model developed by OpenAI. Hugging Face's mission is to democratize AI and make NLP accessible to developers through their library and community-driven resources. They also provide pre-trained models, datasets, and tools for tasks like text generation, sentiment analysis, question answering, and more.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

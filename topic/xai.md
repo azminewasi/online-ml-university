@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Explainable AI (XAI) refers to the concept of designing AI systems that can provide understandable explanations for their decision-making processes. It aims to demystify the "black box" nature of complex AI algorithms and models, increasing transparency and accountability. XAI techniques, such as rule-based systems or visualization tools, enable users to comprehend how and why AI systems arrive at specific predictions or recommendations. By fostering trust, Explainable AI encourages adoption and acceptance of AI technologies in critical domains such as healthcare and finance, where interpretability is crucial. It also facilitates human-AI collaboration, allowing users to validate and refine AI models for improved performance and fairness. 🧠🔍💡
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

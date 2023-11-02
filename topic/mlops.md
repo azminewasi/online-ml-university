@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 MLOps, short for Machine Learning Operations, refers to the practices and processes implemented to streamline the deployment, management, and scaling of machine learning models in production environments. It focuses on bridging the gap between data scientists and IT operations, ensuring the smooth integration of ML models into existing software development and operational workflows.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

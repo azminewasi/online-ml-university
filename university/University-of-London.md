@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 The University of London is a federal university located in London, England. It is composed of 17 constituent colleges and several institutes, each with its own academic offerings and degree-granting authority. Established in 1836, the University of London is one of the largest universities in the United Kingdom. It offers a wide range of programs at undergraduate and postgraduate levels, spanning various disciplines such as humanities, social sciences, natural sciences, law, business, and more. The university has a diverse student body and is recognized for its academic excellence and global reputation.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---

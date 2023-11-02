@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 UC Berkeley, officially known as the University of California, Berkeley, is a renowned public research university located in Berkeley, California. Founded in 1868, UC Berkeley is considered one of the top universities globally and is well-regarded for its academic excellence and progressive values. The university offers a wide range of undergraduate and graduate programs across various fields, including science, engineering, humanities, social sciences, business, and more. UC Berkeley is particularly known for its influential faculty, groundbreaking research, and vibrant campus culture. It has a strong commitment to public service and has played a significant role in shaping societal advancements and promoting inclusivity.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 ---
 

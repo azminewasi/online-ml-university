@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Computer Vision is a field of study within computer science that focuses on developing algorithms and systems to enable computers to extract information and understand the visual content of images or videos. It involves processing, analyzing, and interpreting visual data using techniques such as image recognition, object detection, image segmentation, and image classification. Computer Vision aims to replicate human visual perception and enable machines to make sense of the visual world. It has numerous applications, including object recognition, video surveillance, medical imaging, autonomous vehicles, augmented reality, and robotics. For example, in autonomous vehicles, computer vision systems are used to detect and track objects like pedestrians, vehicles, and traffic signs, allowing the vehicle to perceive its surroundings and make informed decisions. Computer Vision plays a crucial role in enabling machines to "see" and comprehend visual information, making it an essential technology in various industries.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---
@@ -45,7 +45,7 @@ Computer Vision is a field of study within computer science that focuses on deve
 | EPFL | CS-442 |  Computer Vision | 2020/2021  | ⭐⭐| [Website](https://moodle.epfl.ch/course/view.php?id=472)     |
 | New York University | CSCI-GA.2271-001  | Computer Vision | Fall 2022 | ⭐⭐| [Website](https://cs.nyu.edu/~fergus/teaching/vision/index.html)     |
 | UCF Center for Research in Computer Vision | CAP6412  | Advanced Computer Vision | Spring 2023 | ⭐⭐| [Youtube](https://www.youtube.com/playlist?app=desktop&list=PLd3hlSJsX_In7qup928HaHmilugBGctuF)     |
-
+| University of Tübingen | -|  Computer Vision — Andreas Geiger | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) |
 
 
 ## Books

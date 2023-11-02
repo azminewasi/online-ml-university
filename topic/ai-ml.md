@@ -1,7 +1,7 @@
 # ***Online ML University***: **AI & ML Resources from Top Universities**
 Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence. It involves simulating intelligent behavior in machines and enabling them to learn from data, reason, and make decisions. Machine Learning (ML) is a subfield of AI that focuses on developing algorithms and models that allow computers to analyze and interpret data, learn patterns and relationships from it, and make predictions or take actions based on those learned patterns. For example, an AI-powered virtual assistant like Siri or Google Assistant uses machine learning techniques to understand voice commands, analyze natural language, and provide relevant responses or perform actions based on user queries.
 
-***This repository contains a curated list of top AI courses offered by renowned universities. Each course is handpicked to ensure that it covers the latest topics and technologies in the field of AI.***
+
 
 
 ---
@@ -30,6 +30,14 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | Udacity || Intro to TensorFlow for Deep Learning | | ⭐⭐ | [URL](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)     |
 | NYU| CSCI-UA.0473-​001 | Introduction to Machine Learning| - | ⭐ | [Website](https://docs.google.com/document/d/1LKtE2DsNL85iM8JKjc9ourlNX4U_pyrHq1hYWa_m_nU/edit#heading=h.62f44hystje1) |
 | -| -| Machine Learning Bookcamp by Alexey Grigorev| - | ⭐ | [GitHub](https://github.com/alexeygrigorev/mlbookcamp-code) |
+| University of Tübingen | -|  Probabilistic ML by Prof. Dr. Philipp Hennig| 2023 | ⭐⭐ | [Youtube](https://www.youtube.com/watch?v=TTo2kjrAuTo&list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) |
+| University of Tübingen | -|  Statistical Machine Learning — Ulrike von Luxburg | 2020 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) |
+| University of Tübingen | -|  Mathematics for Machine Learning — Ulrike von Luxburg | 2020 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS) |
+| University of Tübingen | -|  Neural Data Science — Philipp Berens | 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) |
+| University of Tübingen | -|  Introduction to Machine Learning — Dmitry Kobak | 2020/21 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) |
+| University of Tübingen | -|  Data Compression With Deep Probabilistic Models |  | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij0Mp1dW2HuXlb-UQIYnv8xK) |
+
+
 
 
 
