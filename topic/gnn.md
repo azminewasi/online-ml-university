@@ -24,6 +24,7 @@ Graph Neural Networks (GNNs) are a class of artificial neural networks specifica
 # Books
 - [Mining Massive Datasets](http://www.mmds.org/)
 - [Graph Neural Networks: Foundations, Frontiers, and Applications](https://graph-neural-networks.github.io/)
+- [Hands-On Graph Neural Networks Using Python](https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python)
 
 
 ---
