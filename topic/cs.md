@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Computer Science encompasses the study of computation, algorithms, and the design of computer systems. It involves the development and application of software and hardware to solve complex problems and advance technology. Computer scientists explore various areas such as programming languages, data structures, artificial intelligence, networking, and software engineering. They analyze problems, devise efficient algorithms, write code, and create innovative solutions. For example, in the field of computer graphics, computer scientists use algorithms and mathematical models to render realistic images and animations, enabling the creation of visually stunning movies, video games, and virtual reality experiences.
 
 

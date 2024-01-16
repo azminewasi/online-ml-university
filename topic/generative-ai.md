@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Generative AI refers to the field of artificial intelligence focused on creating models and systems capable of generating new content. These systems learn patterns from existing data and use that knowledge to create new instances resembling the training data. Techniques include generative adversarial networks (GANs), variational autoencoders (VAEs), and autoregressive models. For example, a generative AI model trained on landscape photos can generate new images resembling natural scenery. In music, generative AI can compose original melodies or entire pieces based on a given style or genre. Generative AI unlocks creativity and innovation by enabling machines to autonomously generate novel content.
 
 

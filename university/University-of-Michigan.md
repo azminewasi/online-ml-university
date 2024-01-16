@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 The University of Michigan, often referred to as U-M or UMICH, is a prestigious public research university located in Ann Arbor, Michigan. With a rich history dating back to 1817, it offers a wide range of undergraduate and graduate programs across various disciplines. U-M is known for its academic excellence, vibrant campus life, and strong athletic traditions.
 
 

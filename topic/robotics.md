@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 AI and robotics have become pivotal forces in shaping the modern world. These technologies have revolutionized industries, bringing about automation and unprecedented levels of efficiency. With advancements in AI, machines have blossomed into intelligent beings capable of learning, adapting, and making decisions independently. Robotics has empowered the creation of sophisticated robots, proficient in performing complex tasks across various domains such as manufacturing and healthcare. As humans collaborate with these intelligent machines, productivity is heightened, and new frontiers are explored. However, along with these advancements, ethical considerations surrounding AI and robotics have emerged. Worries about job displacement and privacy breaches have necessitated careful deliberation and regulation to ensure the responsible and beneficial integration of these technologies into society.
 
 

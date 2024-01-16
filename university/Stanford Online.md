@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Stanford University is a world-renowned private research university located in Stanford, California, USA. Founded in 1885, Stanford is widely recognized for its academic excellence and leadership in various fields. The university offers a wide range of undergraduate and graduate programs across disciplines such as engineering, computer science, humanities, social sciences, business, and medicine. Stanford's campus is known for its innovation and entrepreneurial spirit, fostering collaboration and interdisciplinary research. The university has a rich history of producing influential alumni who have made significant contributions to academia, technology, business, and public service.
 
 

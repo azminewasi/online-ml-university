@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Microsoft offers a wide range of learning resources through their Microsoft Learn platform. It provides free interactive tutorials, documentation, and learning paths that cover various Microsoft technologies, including Azure, Office 365, Windows, and more. Microsoft Learn is designed to help individuals gain technical skills and certifications to excel in their careers.
 On the other hand, LinkedIn Learning is an online learning platform that offers a vast library of video courses on diverse topics. Acquired by Microsoft in 2016, LinkedIn Learning provides courses taught by industry experts covering subjects like business, technology, creative skills, and personal development. Subscribers can access a vast collection of high-quality courses and earn certificates upon completion.
 

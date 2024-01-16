@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Psychology and cognitive modeling play vital roles in shaping the field of AI. By studying human cognition and behavior, researchers can develop AI systems that mimic and understand human thought processes. These models enable AI systems to better perceive, learn, reason, and interact with humans, paving the way for more human-like and intuitive AI experiences. 🧠💡🤖
 
 

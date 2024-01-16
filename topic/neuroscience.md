@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Neuroscience and machine learning (ML) share a mutually beneficial relationship that continues to advance both fields. Neuroscience offers valuable insights into the structure and function of the brain, providing inspiration for the development of artificial neural networks in ML. These networks, modeled after the brain's intricate wiring, have revolutionized various ML applications, from image and speech recognition to natural language processing. Conversely, ML researchers have developed techniques to analyze and interpret large-scale neuroscientific data, enhancing our understanding of the brain's complexities. This interdisciplinary collaboration has the potential to unlock novel solutions for neurodegenerative diseases, brain-computer interfaces, and other complex challenges at the intersection of neuroscience and ML, pushing the boundaries of what we can achieve in both domains.
 
 

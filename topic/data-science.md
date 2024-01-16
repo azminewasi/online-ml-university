@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 
 Data Analysis focuses on examining and interpreting data to uncover meaningful information. It involves techniques such as data cleaning, visualization, exploration, and statistical analysis. Data analysts use tools like spreadsheets, SQL, and basic programming to analyze data sets and generate descriptive statistics and visualizations. They aim to understand trends, relationships, and anomalies within the data.
 

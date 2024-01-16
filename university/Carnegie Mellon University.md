@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Carnegie Mellon University (CMU) is a renowned private research university located in Pittsburgh, Pennsylvania. Established in 1900, CMU is known for its excellence in technology, computer science, engineering, and the arts. It offers a wide range of undergraduate and graduate programs across various disciplines, including computer science, robotics, business, design, and humanities. CMU is recognized for its cutting-edge research, world-class faculty, and collaborative, interdisciplinary approach to education. The university's strong emphasis on innovation and entrepreneurship has contributed to its reputation as a leading institution in both academia and industry.
 
 

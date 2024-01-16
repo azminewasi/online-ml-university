@@ -1,4 +1,4 @@
-# ***Online ML University***: **AI & ML Resources from Top Universities**
+# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
 Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence. It involves simulating intelligent behavior in machines and enabling them to learn from data, reason, and make decisions. Machine Learning (ML) is a subfield of AI that focuses on developing algorithms and models that allow computers to analyze and interpret data, learn patterns and relationships from it, and make predictions or take actions based on those learned patterns. For example, an AI-powered virtual assistant like Siri or Google Assistant uses machine learning techniques to understand voice commands, analyze natural language, and provide relevant responses or perform actions based on user queries.
 
 
