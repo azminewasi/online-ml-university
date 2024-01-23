@@ -35,17 +35,25 @@ Computer Vision is a field of study within computer science that focuses on deve
 | Carnegie Mellon University | 16-824 | Visual Learning and Recognition | Spring 2023   | ⭐⭐⭐| [Website](https://visual-learning.cs.cmu.edu/)     |
 | Cornell Tech| CS5670 | Introduction to Computer Vision | Spring 2022  | ⭐⭐| [Website](http://www.cs.cornell.edu/courses/cs5670/2022sp/)     |
 | MIT | 6.819/6.869 | Advances in Computer Vision	 | Spring 2021  | ⭐⭐⭐| [Website](http://6.869.csail.mit.edu/sp21/)     |
+| MIT | CS231n |  Deep Learning for Computer Vision	 | Spring 2023  | ⭐| [Website](https://cs231n.github.io/)     |
 | Carnegie Mellon University | 16-721 | Learning-Based Methods in Vision | Spring 2007   | ⭐⭐⭐| [Website](http://www.cs.cmu.edu/~efros/courses/LBMV07//)     |
 |  | CSCI 1430, Spring 2023|  Computer Vision | Spring 2023   | ⭐⭐| [Website](https://browncsci1430.github.io/webpage/index.html)     |
 |  University of Taxus | CS 378 |  Computer Vision | Fall 2009  | ⭐⭐| [Website](https://www.cs.utexas.edu/~grauman/courses/fall2009/schedule.htm)     |
 | IMPA | -|  Fundamentals and Trends in Vision and Image Processing | August-November 2021  | ⭐⭐⭐| [Website](https://lvelho.impa.br/ip21/)     |
 | Carnegie Mellon University |  |  Learning for 3D Vision | Spring 2023   | ⭐⭐⭐| [Website](https://learning3d.github.io/)     |
 | University of Michigan |  EECS 442 | Computer Vision | Winter 2021  | ⭐⭐| [Website](https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/)     |
-| Georgia Tech |  CS 4476 |  Introduction to Computer Vision | Fall 2019   | ⭐⭐| [Website](https://dellaert.github.io/19F-4476/schedule.html)     |
+| Georgia Tech |  CS 4476 |  Introduction to Computer Vision | Fall 2019   | ⭐| [Website](https://dellaert.github.io/19F-4476/schedule.html)     |
 | EPFL | CS-442 |  Computer Vision | 2020/2021  | ⭐⭐| [Website](https://moodle.epfl.ch/course/view.php?id=472)     |
 | New York University | CSCI-GA.2271-001  | Computer Vision | Fall 2022 | ⭐⭐| [Website](https://cs.nyu.edu/~fergus/teaching/vision/index.html)     |
-| UCF Center for Research in Computer Vision | CAP6412  | Advanced Computer Vision | Spring 2023 | ⭐⭐| [Youtube](https://www.youtube.com/playlist?app=desktop&list=PLd3hlSJsX_In7qup928HaHmilugBGctuF)     |
+| UCF Center for Research in Computer Vision | CAP6412  | Advanced Computer Vision | Spring 2023 | ⭐⭐⭐| [Youtube](https://www.youtube.com/playlist?app=desktop&list=PLd3hlSJsX_In7qup928HaHmilugBGctuF)     |
 | University of Tübingen | -|  Computer Vision — Andreas Geiger | | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) |
+| York University | EECS 4422 |  Computer Vision  | | ⭐⭐ | [Website](https://www.eecs.yorku.ca/~kosta/Courses/EECS4422/) |
+| York University |  EECS 6322|  Deep Learning in Computer Vision | | ⭐⭐ | [Website](https://www.eecs.yorku.ca/~kosta/Courses/EECS6322/) |
+| University of Michigan | EECS 498.008 / 598.008 |  Deep Learning for Computer Vision | Fall 2019 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) |
+
+
+
+
 
 
 ## Books

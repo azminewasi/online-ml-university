@@ -12,8 +12,9 @@ Generative AI refers to the field of artificial intelligence focused on creating
 | --- | --- |  --- | --- |
 | Microsoft and Linkedin Learning | Career Essentials in Generative AI by Microsoft and LinkedIn         | ⭐ | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)           |
 | Google |  Generative AI learning path       | ⭐ | [Link (Free)](https://www.cloudskillsboost.google/journeys/118)           |
+| Microsoft | | Generative AI for Beginners - A Curriculum || ⭐|[URL](https://github.com/microsoft/generative-ai-for-beginners?azminewasi.github.io) |
 
-https://github.com/mlabonne/llm-course
+
 # **LLMs Core**
 | Source | Course Name | Difficulty | URL |
 | --- | --- |  --- | --- |

@@ -10,6 +10,8 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 # **Machine Learning and Artificial Intelligence**
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
+| Microsoft | | Artificial Intelligence for Beginners - A Curriculum || ⭐|[URL](https://github.com/microsoft/ai-for-beginners) |
+| Microsoft | | ML for Beginners - A Curriculum || ⭐|[URL](https://github.com/microsoft/ML-For-Beginners) |
 | Stanford University | Stanford CS229 | Machine Learning | Spring 2022 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) |
 | Stanford University | Stanford CS229 | Machine Learning Full Course taught by Andrew Ng | Autumn 2018 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&pp=iAQB) |
 | Stanford University| Stanford CS221 | Artificial Intelligence: Principles and Techniques | Autumn 2021 | ⭐⭐ | [Youtube](https://youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&pp=iAQB) |

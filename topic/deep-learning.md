@@ -27,6 +27,14 @@ Deep Learning, a subset of machine learning, is a highly effective approach that
 | University of Tübingen | -|  Neural Data Science — Philipp Berens | 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) |
 | University of Tübingen | -|  Deep Learning — Andreas Geiger| 2022 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) |
 | University of Tübingen | -|  Math for Deep Learning — Andreas Geiger | 2020 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) |
+| University of Geneva, Switzerland |  14x050  | Deep Learning | -| ⭐ | [Website](https://fleuret.org/dlc/) |
 
 
-
+# Books
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
+- [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
+- [A mathematical perspective on Transformers](https://arxiv.org/abs/2312.10794)
+- [THE LITTLE BOOK OF DEEP LEARNING - François Fleuret](https://fleuret.org/francois/lbdl.html)
+- [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)

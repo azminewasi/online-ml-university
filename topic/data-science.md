@@ -15,6 +15,7 @@ On the other hand, Data Science is a broader field that encompasses the entire d
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
+| Microsoft | | Data Science for Beginners - A Curriculum | | ⭐ | [Website](https://microsoft.github.io/Data-Science-For-Beginners/#/) |
 | University of Michigan | | Data Science Ethics | | ⭐ | [Coursera (Free)](https://www.coursera.org/learn/data-science-ethics) |
 | Harvard || Data Science: Machine Learning | - | ⭐ | [Course Website](https://pll.harvard.edu/course/data-science-machine-learning) |
 | Stanford University| Stanford CS472 | Data science and AI for COVID-19 | N/A | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JsodzX9fwRbn39fGmGQMp3_) |
