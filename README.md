@@ -1,4 +1,4 @@
-# **[Online ML University](https://github.com/azminewasi/online-ml-university/): Free AI & ML Resources**
+# **Awsome AI & ML Resources: [Online ML University](https://github.com/azminewasi/online-ml-university/)**
 Many students/AI enthusiasts have questions about where to start with Machine Learning. There are learning paths out there that suggest what to learn, they often miss the main question - 'where do I learn?' Luckily, **there are tons of free courses available from top universities like Stanford, Harvard, MIT, and CMU - covering basic to advanced topics.**
 Now, the best part is that these courses not only provide lectures but also class slides, codes, and detailed lecture plans. To make things even easier, I've compiled a list of these courses in thus repository. You'll find all links of different courses from top universities. It's all free and accessible to anyone.
 
