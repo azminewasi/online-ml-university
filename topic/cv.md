@@ -1,13 +1,8 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Computer Vision**
 Computer Vision is a field of study within computer science that focuses on developing algorithms and systems to enable computers to extract information and understand the visual content of images or videos. It involves processing, analyzing, and interpreting visual data using techniques such as image recognition, object detection, image segmentation, and image classification. Computer Vision aims to replicate human visual perception and enable machines to make sense of the visual world. It has numerous applications, including object recognition, video surveillance, medical imaging, autonomous vehicles, augmented reality, and robotics. For example, in autonomous vehicles, computer vision systems are used to detect and track objects like pedestrians, vehicles, and traffic signs, allowing the vehicle to perceive its surroundings and make informed decisions. Computer Vision plays a crucial role in enabling machines to "see" and comprehend visual information, making it an essential technology in various industries.
 
 
-
-
 ---
-
-
-# **Computer Vision**
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
@@ -61,3 +56,8 @@ Computer Vision is a field of study within computer science that focuses on deve
 | --- | --- |
 |  Computer Vision: Algorithms and Applications | [Book](http://szeliski.org/Book/)     |
 
+
+
+
+
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

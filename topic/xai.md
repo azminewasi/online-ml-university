@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Explainable AI (XAI)**
 Explainable AI (XAI) refers to the concept of designing AI systems that can provide understandable explanations for their decision-making processes. It aims to demystify the "black box" nature of complex AI algorithms and models, increasing transparency and accountability. XAI techniques, such as rule-based systems or visualization tools, enable users to comprehend how and why AI systems arrive at specific predictions or recommendations. By fostering trust, Explainable AI encourages adoption and acceptance of AI technologies in critical domains such as healthcare and finance, where interpretability is crucial. It also facilitates human-AI collaboration, allowing users to validate and refine AI models for improved performance and fairness. 🧠🔍💡
 
 
@@ -7,7 +7,7 @@ Explainable AI (XAI) refers to the concept of designing AI systems that can prov
 ---
 
 
-# **Explainable AI (XAI)**
+
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
@@ -32,3 +32,8 @@ https://arxiv.org/abs/1811.10154
 - [AI Stories podcast with Christoph Molnar, expert in the field](https://www.youtube.com/watch?v=OQ0MR1mbGLg)
 - [Super data science podcast by Jon Krohn with Serg Masi](https://www.superdatascience.com/podcast/interpretable-machine-learning-with-serg-masis)
 - [TWIML AI podcast by Sam Charrington with Been Kim, Research Scientist at Google DeepMind](https://www.youtube.com/watch?v=C8SuqeH_Mg0)
+
+
+
+--- 
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

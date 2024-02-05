@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **MLOps**
 MLOps, short for Machine Learning Operations, refers to the practices and processes implemented to streamline the deployment, management, and scaling of machine learning models in production environments. It focuses on bridging the gap between data scientists and IT operations, ensuring the smooth integration of ML models into existing software development and operational workflows.
 
 
@@ -16,3 +16,6 @@ MLOps, short for Machine Learning Operations, refers to the practices and proces
 | DeepLearning.AI | Machine Learning Engineering for Production (MLOps) | [Youtube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
 
 
+
+---
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

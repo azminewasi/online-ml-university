@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Cognitive Modeling**
 Psychology and cognitive modeling play vital roles in shaping the field of AI. By studying human cognition and behavior, researchers can develop AI systems that mimic and understand human thought processes. These models enable AI systems to better perceive, learn, reason, and interact with humans, paving the way for more human-like and intuitive AI experiences. 🧠💡🤖
 
 
@@ -16,3 +16,8 @@ Psychology and cognitive modeling play vital roles in shaping the field of AI. B
 | NYU | PSYCH-UA.46 | LAB IN COGNITION AND PERCEPTION (Brenden Lake) | Fall 2021  | ⭐⭐ | [Website](https://cims.nyu.edu/~brenden/courses/labincp/intro.html) |
 | Unversity of Washington | | Computational Neuroscience | | ⭐⭐ | [Coursera](https://www.coursera.org/learn/computational-neuroscience) |
 
+
+
+
+---
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

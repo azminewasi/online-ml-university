@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Statistics**
 Statistics is the discipline that deals with the collection, organization, analysis, interpretation, and presentation of numerical data. It involves the application of mathematical principles to gather insights and make informed decisions based on data. Statisticians use various techniques and tools to summarize and describe data sets, identify patterns, estimate parameters, test hypotheses, and make predictions. They play a crucial role in fields like research, business, healthcare, and social sciences. For example, in marketing, statisticians analyze customer data to understand consumer behavior, segment markets, and develop targeted advertising campaigns. They may utilize regression analysis, hypothesis testing, and other statistical methods to identify factors that impact sales and optimize marketing strategies for better business outcomes.
 
 
@@ -7,7 +7,7 @@ Statistics is the discipline that deals with the collection, organization, analy
 ---
 
 
-# **Statistics**
+
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
@@ -20,4 +20,5 @@ Statistics is the discipline that deals with the collection, organization, analy
 
 
 
-
+---
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

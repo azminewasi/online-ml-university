@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Computational Neuroscience and ML**
 Neuroscience and machine learning (ML) share a mutually beneficial relationship that continues to advance both fields. Neuroscience offers valuable insights into the structure and function of the brain, providing inspiration for the development of artificial neural networks in ML. These networks, modeled after the brain's intricate wiring, have revolutionized various ML applications, from image and speech recognition to natural language processing. Conversely, ML researchers have developed techniques to analyze and interpret large-scale neuroscientific data, enhancing our understanding of the brain's complexities. This interdisciplinary collaboration has the potential to unlock novel solutions for neurodegenerative diseases, brain-computer interfaces, and other complex challenges at the intersection of neuroscience and ML, pushing the boundaries of what we can achieve in both domains.
 
 
@@ -7,7 +7,7 @@ Neuroscience and machine learning (ML) share a mutually beneficial relationship 
 ---
 
 
-# **Computational Neuroscience and ML**
+
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,6 @@ Neuroscience and machine learning (ML) share a mutually beneficial relationship 
 - [The Handbook of Brain Theory and Neural Networks, 2E](https://doc.lagout.org/science/Artificial%20Intelligence/Neural%20networks/The%20Handbook%20Of%20Brain%20Theory%20And%20Neural%20Networks%202Nd%20Ed%20-%20Michael%20A%20Arbib.pdf)
 - [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/m/index.htm)
 
+
+---
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

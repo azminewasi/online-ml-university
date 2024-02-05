@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Data Analysis + Data Science**
 
 Data Analysis focuses on examining and interpreting data to uncover meaningful information. It involves techniques such as data cleaning, visualization, exploration, and statistical analysis. Data analysts use tools like spreadsheets, SQL, and basic programming to analyze data sets and generate descriptive statistics and visualizations. They aim to understand trends, relationships, and anomalies within the data.
 
@@ -11,7 +11,7 @@ On the other hand, Data Science is a broader field that encompasses the entire d
 ---
 
 
-# **Data Analysis + Data Science**
+
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
@@ -35,3 +35,7 @@ On the other hand, Data Science is a broader field that encompasses the entire d
 | Google | | Google Analytics for Beginners | | | [URL](https://www.classcentral.com/course/google-analytics-for-beginners-98262)| 
 | Google | | Advanced Google Analytics | | | [URL](https://www.classcentral.com/course/google-advanced-google-analytics-98263)| 
 | Google | | Google Analytics for Power Users | | | [URL](https://www.classcentral.com/course/google-analytics-for-power-users-98264)| 
+
+
+---
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

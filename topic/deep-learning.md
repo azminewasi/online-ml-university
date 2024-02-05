@@ -1,4 +1,4 @@
-# [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
+# **Deep Learning**
 Deep Learning, a subset of machine learning, is a highly effective approach that utilizes artificial neural networks to process and learn from complex data patterns. Neural networks consist of interconnected nodes (neurons) organized into layers, enabling the network to extract and analyze hierarchical representations. With deep learning, these neural networks become deeper, containing multiple hidden layers that allow for more sophisticated feature extraction. This architecture empowers deep learning models to excel in solving intricate tasks such as facial recognition, natural language processing, and speech synthesis. For instance, in the field of medical imaging, deep learning has shown remarkable results in automated diagnosis. By training deep neural networks on vast datasets of medical images, they can accurately detect diseases like cancer or identify abnormalities in X-rays or MRIs, aiding physicians in making timely and accurate diagnoses. The power of deep learning lies in its ability to automatically learn and adapt to data, unlocking revolutionary advancements across various domains.
 
 
@@ -7,7 +7,7 @@ Deep Learning, a subset of machine learning, is a highly effective approach that
 ---
 
 
-# **Deep Learning**
+
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | UCL x DeepMind | | Deep Learning Course | 2018 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc) |
@@ -38,3 +38,8 @@ Deep Learning, a subset of machine learning, is a highly effective approach that
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+
+
+
+---
+### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
