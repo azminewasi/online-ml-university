@@ -27,6 +27,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 - [Computational Neuroscience + ML](https://github.com/azminewasi/online-ml-university/blob/main/topic/neuroscience.md)
 - [Trustworthiness and fairness in ML](https://github.com/azminewasi/online-ml-university/blob/main/topic/TrustworthinessFairness.md)
 - [Robotics and Autonomous Systems](https://github.com/azminewasi/online-ml-university/blob/main/topic/robotics.md)
+- [Computer Human Interaction (CHI) or Human Computer Interaction (HCI)](https://github.com/azminewasi/online-ml-university/blob/main/topic/chi-hci.md)
 
 
 
