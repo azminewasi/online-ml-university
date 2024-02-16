@@ -18,7 +18,7 @@ Graph Neural Networks (GNNs) are a class of artificial neural networks specifica
 | ML Explained - Aggregate Intellect - AI.SCIENCE | - | Graph Neural Networks (Hands On)| N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLB1nTQo4_y6sfLtCrGAKG_l7xOHjtYqBk) |
 | Aleksa Gordić - The AI Epiphany | - | Graph Neural Networks | N/A | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLBoQnSflObckArGNhOcNg7lQG_f0ZlHF5) |
 | African Master in Machine Intelligence | | Geometric Deep Learning Oxford-NYU-Qualcomm-DeepMind                   |   2022   | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) |
-
+| IIT Bombey | CS 774 |  Spectral Graph Theory                   |   -   | ⭐⭐ | [Website](https://sites.google.com/view/kumarakash/teaching/cs-774-spectral-graph-theory) |
 ---
 
 # Books

@@ -44,6 +44,10 @@ Generative AI refers to the field of artificial intelligence focused on creating
 | Databricks | Large Language Models (LLMs): Application through Production | ⭐⭐ | [Link (Free)](https://customer-academy.databricks.com/learn/course/internal/view/elearning/1749/large-language-models-llms-application-through-production) |
 | Cohere | LLM in Production | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL3vkEKxWd-us5YvvuvYkjP_QGlgUq3tpA) |
 
+---
+
+# Others
+- Project Collection: [Langchain Projects LLM](https://github.com/ananthanarayanan431/Langchain-Projects-LLM/)
 
 ---
 ### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**

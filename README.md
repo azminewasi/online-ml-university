@@ -7,7 +7,8 @@ Now, the best part is that these courses not only provide lectures but also clas
 ---
 
 # **Topics Listed:**
--   [Artificial Intelligence, Machine Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai-ml.md) 
+- [Cheat Sheets Collection](https://github.com/azminewasi/online-ml-university/blob/main/topic/cheatsheets.md) 
+-  [Artificial Intelligence, Machine Learning](https://github.com/azminewasi/online-ml-university/blob/main/topic/ai-ml.md) 
 -  [Computer Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/cs.md) 
 -  [Statistics](https://github.com/azminewasi/online-ml-university/blob/main/topic/statistics.md) 
 -  [Data Science](https://github.com/azminewasi/online-ml-university/blob/main/topic/data-science.md) 

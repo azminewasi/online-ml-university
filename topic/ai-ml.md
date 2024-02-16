@@ -20,6 +20,7 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | MIT |  6.034 | Artificial Intelligence | Fall 2010 | ⭐⭐⭐ | [Youtube](https://youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi&pp=iAQB) |
 | UC Berkeley | CS 188 | Introduction to Artificial Intelligence | Fal 2018 | ⭐ | [Youtube](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) |
 | Carnegie Mellon University | CS/LTI 11-777 | Multimodal Machine Learning                           | |⭐⭐⭐ | [Youtube](https://lnkd.in/gKFJDbU4)      |
+| Carnegie Mellon University | -| Introduction to Machine Learning |Spring 2019 |⭐ | [Website](https://www.cs.cmu.edu/~ninamf/courses/315sp19/index.html)      |
 | Google | | Machine Learning Crash Course | | | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course)| 
 | Harvard | CS197 | AI Research Experiences | - | ⭐⭐⭐ | [Course Website](https://www.cs197.seas.harvard.edu/) |
 | | | The State of Competitive Machine Learning | - | ⭐⭐⭐ | [Website](https://mlcontests.com/state-of-competitive-machine-learning-2022/?ref=mlctwitter%E2%80%A6#winning-solutions) |
