@@ -7,7 +7,6 @@ Psychology and cognitive modeling play vital roles in shaping the field of AI. B
 ---
 
 
-# **Cognitive Modeling**
 
 | Source | Course Code | Course Name | Session | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
