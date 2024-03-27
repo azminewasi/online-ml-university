@@ -38,6 +38,11 @@ Artificial Intelligence (AI) refers to the development of computer systems that 
 | University of Tübingen | -|  Neural Data Science — Philipp Berens | 2021 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx) |
 | University of Tübingen | -|  Introduction to Machine Learning — Dmitry Kobak | 2020/21 | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) |
 | University of Tübingen | -|  Data Compression With Deep Probabilistic Models |  | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij0Mp1dW2HuXlb-UQIYnv8xK) |
+|  | MVA2021|  Kernel methods in machine learning  |  | ⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?app=desktop&list=PLD93kGj6_EdrkNj27AZMecbRlQ1SMkp_o)  [Website](https://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2021mva/index.html) |
+---
+
+
+
 
 
 
