@@ -19,8 +19,13 @@ Computer Science encompasses the study of computation, algorithms, and the desig
 | Princeton University | |  Algorithms, Part I | |⭐ |  [Coursera - Free Audit](https://www.coursera.org/learn/algorithms-part1) |
 | Princeton University | | Algorithms, Part II  | |⭐⭐  | [Coursera - Free Audit](https://www.coursera.org/learn/algorithms-part2) |
 | Microsoft and Linkedin Learning | | Career Essentials in Software Development | | ⭐ | [Link (Free)](https://www.linkedin.com/learning/paths/career-essentials-in-software-development-by-microsoft-and-linkedin)    |
-| Harvard | | CS50's Introduction to Programming with Scratch ||  ⭐ | [Course Website](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) |
-
+| Harvard | CS50 | Introduction to Programming with Scratch ||  ⭐ | [Course Website](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch) |
+| MIT | 6.S955 |  Applied Numerical Algorithms- Justin Solomon | Fall 2023|  ⭐⭐ | [Youtube](https://www.youtube.com/watch?v=Xt4p5gk24ss&list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb&pp=iAQB) |
+| MIT | 6.8410 | Shape Analysis | Spring 2023|  ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtHHgJRhkuBl3tzRdqeWUL9) |
+| MIT | 6.837 | Introduction to Computer Graphics | Fall 2021|  ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtqt2yL3KgKV-yn0NEPbRVi) |
+| MIT | 6.838 | Shape Analysis | Spring 2021|  ⭐⭐ | [Youtube](https://www.youtube.com/watch?v=Xt4p5gk24ss&list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb&pp=iAQB) |
+| MIT | CS 205A |  Mathematical Methods for Robotics, Vision, and Graphics | |  ⭐⭐ | [Youtube](https://www.youtube.com/watch?v=Xt4p5gk24ss&list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb&pp=iAQB) |
+| MIT | CS 468 | Differential Geometry for Computer Science | Spring 2013|  ⭐⭐ | [Youtube](https://www.youtube.com/watch?v=Xt4p5gk24ss&list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb&pp=iAQB) |
 
 
 
