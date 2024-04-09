@@ -50,10 +50,8 @@ The integration of Artificial Intelligence (AI) and Machine Learning (ML) has re
 - http://cecileane.github.io/computingtools/
 - Population genomics book: https://github.com/cooplab/popgen-notes/releases/tag/v1.1
 - Single-cell RNA-seq collection: https://osca.bioconductor.org/learning-r-and-more.html
-- old 2011 EBI course: https://www.ebi.ac.uk/training/online/course/embo-practical-course-analysishigh-throughput-seq/introduction-r-and-bioconductor
+- Old 2011 EBI course: https://www.ebi.ac.uk/training/online/course/embo-practical-course-analysishigh-throughput-seq/introduction-r-and-bioconductor
 - Notes on data science and machine learning https://chrisalbon.com/
-
-## Differential expression analysis tools and examples:
 - https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.
 pdf
 - understanding interactions:
