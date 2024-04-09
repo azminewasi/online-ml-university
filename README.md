@@ -16,6 +16,7 @@ Now, the best part is that these courses not only provide lectures but also clas
 -  [Computer Vision](https://github.com/azminewasi/online-ml-university/blob/main/topic/cv.md) 
 -  [Natural Language Processing](https://github.com/azminewasi/online-ml-university/blob/main/topic/nlp.md) 
 -  [Generative AI & LLMs](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai.md) 
+-  [Computational Biology and Bioinformatics](https://github.com/azminewasi/online-ml-university/blob/main/topic/compbio-bioinf.md) 
 -  [Generative AI with Vision](https://github.com/azminewasi/online-ml-university/blob/main/topic/generative-ai-vision.md) 
 -  [Graph Neural Networks](https://github.com/azminewasi/online-ml-university/blob/main/topic/gnn.md) 
 -  [Reinforcement Learning](https://github.com/azminewasi/Curated-Reinforcement-Learning-Resources) 
