@@ -58,12 +58,13 @@ The integration of Artificial Intelligence (AI) and Machine Learning (ML) has re
 pdf
 - understanding interactions:
 http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html
-Single cell analysis tools and guided examples:
+
+## Single cell analysis tools and guided examples:
 - https://satijalab.org/seurat/
 - https://icb-scanpy.readthedocs-hosted.com/en/stable/tutorials.html
-Web Seminars of Swiss Institute of Bioinformatics
+- Web Seminars of Swiss Institute of Bioinformatics
 https://www.youtube.com/playlist?list=PLoCxWrRWjqB1JUCntl4X09ezmOtKx1Gke
-Darren Wilkinson's blog (quite computational)
+- Darren Wilkinson's blog (quite computational)
 https://darrenjw.wordpress.com/2010/01/30/yet-another-introduction-to-r-and-bioconductor
 --- 
 ### [***Online ML University***]((https://github.com/azminewasi/online-ml-university/)): **AI & ML Resources from Top Universities**
