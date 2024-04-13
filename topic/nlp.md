@@ -25,6 +25,7 @@ Natural Language Processing (NLP) is a branch of artificial intelligence and lin
 | NYU| CS-GA 3033 | Mathematics of Deep Learning (Joan Bruna) | Spring 2022 | ⭐⭐⭐ | [Website-Notion](https://ballistic-fender-541.notion.site/Mathematics-of-Deep-Learning-Spring-22-1fbb28cb14ea4c8caf3e30c1d7e15381) |
 | NYU| DS-GA 1011 | Natural Language Processing with Representation Learning | Fall 2020 | ⭐⭐⭐ | [Website - Google Docs](https://docs.google.com/document/d/1xelBTEAzqmjNXj5revi8N8R7TKy4aG7AtZfFrwO1sRs/edit) |
 | NYU| LING-GA 3340 | Seminar in Semantics | - | ⭐⭐⭐ | [Website](https://docs.google.com/document/d/1QaEP0mX-V64iJmMkosf9De2YKIXDmjn1Cx1pY0uIkkI/edit#heading=h.4ktdvnm8gp3l) |
+| ineuron | - | NLP Foundations | - | ⭐ | [Website](https://ineuron.ai/course/nlp-foundations) |
 
 
 
