@@ -53,7 +53,6 @@ Now, the best part is that these courses not only provide lectures but also clas
 | National University of Singapore | | Uncertainty Modeling in AI | - | ⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H) |
 | Google | | Basics of Machine Learning | | ⭐ | [URL](https://learndigital.withgoogle.com/digitalunlocked/course/learn-python-basics-for-data-analysis)| 
 | Kaggle | | Intro to AI Ethics                                | | ⭐ | [URL](https://www.kaggle.com/learn/intro-to-ai-ethics)                                     |
-| - || ML Course by Yury Kashnitsky       | | ⭐ |  [URL]([https://www.kaggle.com/learn/intro-to-ai-ethics](https://mlcourse.ai/book/index.html))     |
 | Class Central || Elements of AI   | | ⭐ | [URL](https://www.classcentral.com/course/independent-elements-of-ai-12469?utm_source=online-ml-university)     |
 | Udacity || Intro to TensorFlow for Deep Learning | | ⭐⭐ | [URL](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)     |
 | NYU| CSCI-UA.0473-​001 | Introduction to Machine Learning| - | ⭐ | [Website](https://docs.google.com/document/d/1LKtE2DsNL85iM8JKjc9ourlNX4U_pyrHq1hYWa_m_nU/edit#heading=h.62f44hystje1) |
