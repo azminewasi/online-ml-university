@@ -6,6 +6,9 @@ The integration of Artificial Intelligence (AI) and Machine Learning (ML) has re
 ---
 
 
+## Courses
+
+
 | Source | Course | Lecturer  | Year  | Difficulty | URL |
 | --- | --- | --- | --- | --- | --- |
 | Harvard University	|Computational Biology and Bioinformatics|	Xiaole Shirley Liu| 2021 |⭐⭐ | [Youtube](https://www.youtube.com/watch?v=LvtPXZHNoCc&list=PLeB-Dlq-v6taAXK6ZCGfqImrNWJzFt3p3&pp=iAQB) | 
@@ -16,6 +19,7 @@ The integration of Artificial Intelligence (AI) and Machine Learning (ML) has re
 | MIT | 7.91J Foundations of Computational and Systems Biology|	Christopher Burge, David Gifford, Ernest Fraenkel| 2015 |⭐⭐⭐ | [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac) | 
 | Data Professor |  Machine Learning for Drug Discovery, Bioinformatics | - |- | -| [Youtube](https://www.youtube.com/playlist?list=PLtqF5YXg7GLlUX95uiDdKOEJGrWPVJIhL) [Youtube](https://www.youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP) | 
 | - | GENOMIC & PRECISION MEDICINE ONLINE COURSE  | - |- | -| [URL](https://humangenetics.ucsf.edu/courses-workshops#Course-Content--Genomic-amp-Precision-Medicine) | 
+|Stockholm University|Introduction to Bioinformatics | Arne Elofsson|||[YT](https://www.youtube.com/channel/UCavIQR6RF5dXiAuNy28yOaw/videos)|
 ---
 
 ## Future Learn Courses
@@ -26,6 +30,12 @@ The integration of Artificial Intelligence (AI) and Machine Learning (ML) has re
 - [The Power of Genomics to Understand the COVID-19 Pandemic](https://www.futurelearn.com/courses/genomics-covid-19)
 - [All Free Health Courses](https://www.futurelearn.com/courses?filter_category=13&filter_course_type=sponsored&filter_availability=started&page=1#courses-grid-start)
 
+## YT Channels and Resources to follow:
+- Graph-based Molecules/Drugs: [Valance Labs](https://www.youtube.com/@valence_labs)
+- [European Bioinformatics Institute - EMBL-EBI](https://www.youtube.com/@EMBL-EBI/playlists)
+- [SIB - Swiss Institute of Bioinformatics](https://www.youtube.com/c/SIBSwissInstituteofBioinformatics)
+- [Faculty of Bioengineering and Bioinformatics, MSU](https://www.youtube.com/@facultyofbioengineeringand45/playlists)
+- [University of Michigan Computational Medicine and Bioinformatics](https://www.youtube.com/channel/UCjvLXvfPupVHtGU_ckTDPwA)
 
 
 ## General tutorial/workshop/book collections:
